@@ -1,0 +1,1433 @@
+{
+    "success": true,
+    "errorCode": null,
+    "errorMessage": null,
+    "errorItems": [],
+    "data": {
+    "156": {
+    "id": 156,
+    "name": "5 Series",
+    "variants": [
+    {
+    "id": 7211,
+    "name": "530D",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7975,
+    "name": "525D RSE",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14602,
+    "name": "520d Sport Line",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1534,
+    "name": "520D",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7979,
+    "name": "530D NAV HUD RC",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7982,
+    "name": "540I",
+    "cc": 4398,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7977,
+    "name": "530D Highline",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7980,
+    "name": "530I",
+    "cc": 2996,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7976,
+    "name": "528I",
+    "cc": 2793,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7971,
+    "name": "520I",
+    "cc": 1997,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7974,
+    "name": "525D Luxury Plus",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 36963,
+    "name": "530I M Sports",
+    "cc": 1998,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14601,
+    "name": "530i Sport Line",
+    "cc": 1998,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7969,
+    "name": "520D Luxury Plus",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 9683,
+    "name": "520d M Sport",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7973,
+    "name": "525D 2.0L",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7968,
+    "name": "520D Luxury",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7983,
+    "name": "545I",
+    "cc": 2996,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7978,
+    "name": "530D M Sport",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7081,
+    "name": "525I",
+    "cc": 2497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7981,
+    "name": "535I",
+    "cc": 2979,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7972,
+    "name": "523I",
+    "cc": 2497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7970,
+    "name": "520D Modern",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7234,
+    "name": "525D",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/bmw_5-series.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/bmw_5-series.png"
+    },
+    "170": {
+    "id": 170,
+    "name": "3 Series",
+    "variants": [
+    {
+    "id": 38097,
+    "name": "M340i xDrive",
+    "cc": 2998,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 38008,
+    "name": "Gran Limousine 330Li M Sport First Edition",
+    "cc": 1998,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7950,
+    "name": "320D Dynamic Package",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7957,
+    "name": "320D Performance Edition",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 1552,
+    "name": "320D",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 15216,
+    "name": "320D GT Sport Line",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7945,
+    "name": "316I",
+    "cc": 1895,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7946,
+    "name": "316I",
+    "cc": 1596,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7951,
+    "name": "320D Exclusive",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7948,
+    "name": "320D Base Line",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7964,
+    "name": "328I Sports Line",
+    "cc": 1997,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7967,
+    "name": "330D Convertible",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7953,
+    "name": "320D LCI",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7184,
+    "name": "320I",
+    "cc": 1995,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9625,
+    "name": "320i Luxury Line",
+    "cc": 1998,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7958,
+    "name": "320D Prestige",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7959,
+    "name": "320D Sport Line",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 16903,
+    "name": "330i M Sport",
+    "cc": 1998,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 16904,
+    "name": "330i GT M Sport",
+    "cc": 1998,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 36705,
+    "name": "320d Edition Sport",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 29295,
+    "name": "GT 320d Luxury Line",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7966,
+    "name": "330I Sport",
+    "cc": 2996,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7949,
+    "name": "320D Corporate Edition",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7955,
+    "name": "320D Luxury Plus",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7954,
+    "name": "320D Luxury Line",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7963,
+    "name": "328I Luxury Line",
+    "cc": 1997,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7960,
+    "name": "320D Sport Plus",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7962,
+    "name": "325I",
+    "cc": 2497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7956,
+    "name": "320D M Sports",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7965,
+    "name": "330I",
+    "cc": 2996,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 9626,
+    "name": "320i Prestige Line",
+    "cc": 1998,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7952,
+    "name": "320D Highline",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7961,
+    "name": "323 CI",
+    "cc": 2497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7947,
+    "name": "318I",
+    "cc": 1995,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 26225,
+    "name": "320I Touring",
+    "cc": 1995,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/bmw_3-series.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/bmw_3-series.png"
+    },
+    "209": {
+    "id": 209,
+    "name": "7 Series",
+    "variants": [
+    {
+    "id": 8012,
+    "name": "740LI 4.0",
+    "cc": 4000,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8005,
+    "name": "730LD Hotel Spec",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8022,
+    "name": "750LI Luxury Package",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 14658,
+    "name": "M760Li xDrive",
+    "cc": 5972,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8016,
+    "name": "750LI M Sport",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8023,
+    "name": "760LI Bulletproof",
+    "cc": 5972,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8026,
+    "name": "760LI Innovation Luxury Package",
+    "cc": 5972,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8019,
+    "name": "750LI Eminence",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8025,
+    "name": "760LI Eminence",
+    "cc": 5972,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8007,
+    "name": "730LD Innovation Package",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7999,
+    "name": "728I",
+    "cc": 2793,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8018,
+    "name": "750LI Customised",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8006,
+    "name": "730LD Innovation Luxury Package",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8021,
+    "name": "750LI Innovation Package",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8024,
+    "name": "760LI",
+    "cc": 5972,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8029,
+    "name": "Active Hybrid",
+    "cc": 2979,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8002,
+    "name": "730LD CKD",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8000,
+    "name": "730LD",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8011,
+    "name": "735LI",
+    "cc": 3600,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8004,
+    "name": "730LD Eminence",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8010,
+    "name": "730LD Luxury Package",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8013,
+    "name": "740LI Innovation Luxury Package",
+    "cc": 2979,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8014,
+    "name": "740LI Innovation Package",
+    "cc": 2979,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8001,
+    "name": "730LD CBU",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7187,
+    "name": "730LD Customised",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8009,
+    "name": "730LD Luxury Dynamic Package",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 35219,
+    "name": "730Ld DPE Signature",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8027,
+    "name": "760LI Innovation Package",
+    "cc": 5972,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8028,
+    "name": "760LI Luxury Package",
+    "cc": 5972,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8008,
+    "name": "730LD Limousine",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8003,
+    "name": "730LD Corporate Edition",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8017,
+    "name": "750LI",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1650,
+    "name": "740LI",
+    "cc": 2979,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8020,
+    "name": "750LI Innovation Luxury Package",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8015,
+    "name": "740LI Luxury Package",
+    "cc": 2979,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "2738": {
+    "id": 2738,
+    "name": "X6 Series",
+    "variants": [
+    {
+    "id": 7118,
+    "name": "X Drive 30D",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8091,
+    "name": "X Drive 5.0I",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8090,
+    "name": "X Drive 40D",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8088,
+    "name": "Xdrive 40D Expedition",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8089,
+    "name": "X Drive 35D",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true
+    },
+    "2749": {
+    "id": 2749,
+    "name": "X3 Series",
+    "variants": [
+    {
+    "id": 8065,
+    "name": "X3 Xdrive 30D Expedition",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8062,
+    "name": "X3 3.0 Si",
+    "cc": 2987,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8061,
+    "name": "X3 2.5 Si",
+    "cc": 2497,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8064,
+    "name": "X3 Xdrive 20D Expedition",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7106,
+    "name": "X3 Xdrive 20D",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8060,
+    "name": "X3 2.0D Advantage",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 33855,
+    "name": "xDrive30d M Sport",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 36763,
+    "name": "xDrive 20d Luxury Line",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8063,
+    "name": "xDRIVE 30D",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8059,
+    "name": "X3 2.0D",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/bmw_x3-series.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/bmw_x3-series.png"
+    },
+    "2754": {
+    "id": 2754,
+    "name": "X1 Series",
+    "variants": [
+    {
+    "id": 8056,
+    "name": "X1 Sdrive 20D Xline",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8057,
+    "name": "X1 Sdrive20D Highline",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14923,
+    "name": "XDrive 20D M Sport",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8050,
+    "name": "X1 Sdrive 20D CBU",
+    "cc": 1995,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 1695,
+    "name": "X1 Sdrive 20D",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8055,
+    "name": "X1 Sdrive 20D Sportline",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8051,
+    "name": "X1 Sdrive 20D Cool Elegance",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8052,
+    "name": "X1 Sdrive 20D Corporate Edition",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8053,
+    "name": "X1 Sdrive 20D Exclusive",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8054,
+    "name": "X1 Sdrive 20D Expedition",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7130,
+    "name": "X1 Sdrive 18I",
+    "cc": 1995,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 37889,
+    "name": "X Drive 20D",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8058,
+    "name": "X1 Sdrive20D Innovation",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/bmw_x1-series.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/bmw_x1-series.png"
+    },
+    "2878": {
+    "id": 2878,
+    "name": "1 Series",
+    "variants": [
+    {
+    "id": 7942,
+    "name": "118D",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7941,
+    "name": "116I",
+    "cc": 1598,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7944,
+    "name": "118D Sport Plus",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7943,
+    "name": "118D Sport Line",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/bmw_1-series.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/bmw_1-series.png"
+    },
+    "2879": {
+    "id": 2879,
+    "name": "6 Series Convertible",
+    "variants": [
+    {
+    "id": 7987,
+    "name": "650I Comfort",
+    "cc": 4799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7989,
+    "name": "650I Innovation Package",
+    "cc": 4799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7984,
+    "name": "640D",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7988,
+    "name": "650I Dynamic Package",
+    "cc": 4799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7985,
+    "name": "650I",
+    "cc": 4799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7986,
+    "name": "650I 4.4 L",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2880": {
+    "id": 2880,
+    "name": "6 Series Coupe",
+    "variants": [
+    {
+    "id": 7997,
+    "name": "650I Gran Coupe",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7992,
+    "name": "640D Gran Coupe Eminence",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7995,
+    "name": "650I 4.4 L",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7998,
+    "name": "650I Innovation Package",
+    "cc": 4799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7990,
+    "name": "640D",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7994,
+    "name": "650I",
+    "cc": 4799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7993,
+    "name": "645 CI",
+    "cc": 4398,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 7991,
+    "name": "640D Gran Coupe",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 7996,
+    "name": "650I Dynamic Package",
+    "cc": 4799,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/bmw_6-series-coupe.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/bmw_6-series-coupe.png"
+    },
+    "2882": {
+    "id": 2882,
+    "name": "Gran Turismo",
+    "variants": [
+    {
+    "id": 8031,
+    "name": "GT 320D",
+    "cc": 1993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14430,
+    "name": "320d GT Luxury Line",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14429,
+    "name": "320d GT Sport Line",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8032,
+    "name": "GT 530D",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 14431,
+    "name": "330i GT Luxury Line",
+    "cc": 1998,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "2883": {
+    "id": 2883,
+    "name": "M Models",
+    "variants": [
+    {
+    "id": 8040,
+    "name": "M5 4.4L",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8046,
+    "name": "M6 Coupe Individual",
+    "cc": 4799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8039,
+    "name": "M5",
+    "cc": 4999,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8044,
+    "name": "M6 Coupe",
+    "cc": 4799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8048,
+    "name": "M6 Gran Coupe",
+    "cc": 4999,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8043,
+    "name": "M6 Convertible Individual",
+    "cc": 4799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8033,
+    "name": "M5 Individual",
+    "cc": 4999,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8049,
+    "name": "M6 Gran Coupe 4.4L",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8034,
+    "name": "M3 Convertible",
+    "cc": 3999,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8042,
+    "name": "M6 Convertible 4.4",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8036,
+    "name": "M3 Coupe",
+    "cc": 3999,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8035,
+    "name": "M3 Convertible Advanced",
+    "cc": 3999,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8045,
+    "name": "M6 Coupe 4.4",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8047,
+    "name": "M6 Gran Convertible",
+    "cc": 4999,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8037,
+    "name": "M3 Coupe Advanced",
+    "cc": 3999,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8038,
+    "name": "M4 Coupe",
+    "cc": 2979,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8041,
+    "name": "M6 Convertible",
+    "cc": 4799,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true
+    },
+    "2884": {
+    "id": 2884,
+    "name": "X5 Series",
+    "variants": [
+    {
+    "id": 14667,
+    "name": "Xdrive 30D M Sport",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8069,
+    "name": "X5 3.0D Highline",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8066,
+    "name": "3.0D 1",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8068,
+    "name": "X5 3.0D",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8072,
+    "name": "X5 3.0I RHD",
+    "cc": 2979,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8080,
+    "name": "X5 Xdrive 30 D",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8083,
+    "name": "X5 Xdrive 30D CBU",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8076,
+    "name": "X5 50I",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8070,
+    "name": "X5 3.0D Luxury Package",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8084,
+    "name": "X5 Xdrive 30D Design",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8074,
+    "name": "X5 4.8I 5 Seater",
+    "cc": 4799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8073,
+    "name": "X5 4.4I",
+    "cc": 4398,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8081,
+    "name": "X5 Xdrive 30 D Options",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8077,
+    "name": "X5 50I Luxury Package",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8075,
+    "name": "X5 4.8I 7 Seater",
+    "cc": 4799,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8082,
+    "name": "X5 Xdrive 30D CKD",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8067,
+    "name": "3.0D 2",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8079,
+    "name": "X5 M 50D 3.0",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 26153,
+    "name": "XDrive 30d Design Pure Experience",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8071,
+    "name": "X5 3.0D SAV",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8086,
+    "name": "Xdrive 50I Options",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8085,
+    "name": "X5 Xdrive 30 D Expedition",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 8078,
+    "name": "X5 50I Fully Loaded",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/bmw_x5-series.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/bmw_x5-series.png"
+    },
+    "2885": {
+    "id": 2885,
+    "name": "X6 M",
+    "variants": [
+    {
+    "id": 8087,
+    "name": "4.4 V8",
+    "cc": 4395,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2886": {
+    "id": 2886,
+    "name": "Z3 Models",
+    "variants": [
+    {
+    "id": 8092,
+    "name": "Roadster 2.2",
+    "cc": 2171,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "2887": {
+    "id": 2887,
+    "name": "Z4 Models",
+    "variants": [
+    {
+    "id": 8096,
+    "name": "Sdrive35I CBU",
+    "cc": 2979,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8093,
+    "name": "3.2 M Coupe",
+    "cc": 3999,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 17056,
+    "name": "Xdrive 35i",
+    "cc": 2979,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8095,
+    "name": "Sdrive35I",
+    "cc": 2979,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 8094,
+    "name": "Roadster 3.0I",
+    "cc": 2997,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": true,
+    "desktop_image_path": "https://media.coverfox.com/motor_product/model/desktop/bmw_z4-models.png",
+    "mobile_image_path": "https://media.coverfox.com/motor_product/model/mobile/bmw_z4-models.png"
+    },
+    "3320": {
+    "id": 3320,
+    "name": "M3",
+    "variants": [
+    {
+    "id": 14931,
+    "name": "Sedan",
+    "cc": 2979,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "4558": {
+    "id": 4558,
+    "name": "M2",
+    "variants": [
+    {
+    "id": 26239,
+    "name": "Competition",
+    "cc": 2979,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "4867": {
+    "id": 4867,
+    "name": "X4 M Sport X",
+    "variants": [
+    {
+    "id": 29314,
+    "name": "xDrive 20d",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 29320,
+    "name": "xDrive30i",
+    "cc": 1998,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 29321,
+    "name": "xDrive30d",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": null
+    },
+    "6797": {
+    "id": 6797,
+    "name": "6 SERIES",
+    "variants": [
+    {
+    "id": 36819,
+    "name": "GT 630i Luxury Line",
+    "cc": 1995,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 36820,
+    "name": "GT 620d Luxury Line",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 37021,
+    "name": "GT 630d Luxury Line",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 37961,
+    "name": "GT 630d M Sport",
+    "cc": 2993,
+    "fuel_type": "DIESEL"
+    }
+    ],
+    "is_popular": null
+    },
+    "6825": {
+    "id": 6825,
+    "name": "X7",
+    "variants": [
+    {
+    "id": 37025,
+    "name": "xDrive 40i",
+    "cc": 2998,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "6919": {
+    "id": 6919,
+    "name": "2 Series",
+    "variants": [
+    {
+    "id": 54611,
+    "name": "Gran Coupe 220i M Sport",
+    "cc": 1998,
+    "fuel_type": "PETROL"
+    },
+    {
+    "id": 37930,
+    "name": "Gran Coupe 220I M Sport",
+    "cc": 1995,
+    "fuel_type": "DIESEL"
+    },
+    {
+    "id": 38025,
+    "name": "220i M Sport",
+    "cc": 1998,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "6928": {
+    "id": 6928,
+    "name": "X1",
+    "variants": [
+    {
+    "id": 38057,
+    "name": "sDrive20i xLine",
+    "cc": 1998,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    },
+    "11748": {
+    "id": 11748,
+    "name": "8 Series",
+    "variants": [
+    {
+    "id": 51379,
+    "name": "840i Gran Coupe",
+    "cc": 2998,
+    "fuel_type": "PETROL"
+    }
+    ],
+    "is_popular": null
+    }
+    }
+    }

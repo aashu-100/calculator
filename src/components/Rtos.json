@@ -1,0 +1,8210 @@
+{
+    "success": true,
+    "errorCode": null,
+    "errorMessage": null,
+    "errorItems": [],
+    "data": [
+    {
+    "rto_code": "TN-85",
+    "rto_name": "Chennai Southwest",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "MH-04",
+    "rto_name": "Thane",
+    "popular_city": "Mumbai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-1",
+    "rto_name": "Delhi North Hill Road",
+    "popular_city": "New Delhi",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-15",
+    "rto_name": "Gurgaon",
+    "popular_city": "Gurgaon",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-2",
+    "rto_name": "New Delhi",
+    "popular_city": "New Delhi",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-3",
+    "rto_name": "South Delhi",
+    "popular_city": "New Delhi",
+    "is_popular": true
+    },
+    {
+    "rto_code": "MH-48",
+    "rto_name": "Virar Vasai",
+    "popular_city": "Mumbai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-4",
+    "rto_name": "Delhi West Raja Garden",
+    "popular_city": "New Delhi",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-5",
+    "rto_name": "Delhi North Loni Road",
+    "popular_city": "New Delhi",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-7",
+    "rto_name": "Delhi East",
+    "popular_city": "New Delhi",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-8",
+    "rto_name": "North West Delhi",
+    "popular_city": "New Delhi",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-9",
+    "rto_name": "South West Delhi",
+    "popular_city": "New Delhi",
+    "is_popular": true
+    },
+    {
+    "rto_code": "HR-72",
+    "rto_name": "Gurgaon",
+    "popular_city": "Gurgaon",
+    "is_popular": true
+    },
+    {
+    "rto_code": "MH-05",
+    "rto_name": "Kalyan",
+    "popular_city": "Mumbai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "MH-01",
+    "rto_name": "Mumbai Tardeo",
+    "popular_city": "Mumbai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "MH-02",
+    "rto_name": "Mumbai Andheri",
+    "popular_city": "Mumbai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-10",
+    "rto_name": "West Delhi",
+    "popular_city": "New Delhi",
+    "is_popular": true
+    },
+    {
+    "rto_code": "MH-47",
+    "rto_name": "Borivali Mumbai",
+    "popular_city": "Mumbai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "WB-04",
+    "rto_name": "Kolkata",
+    "popular_city": "Kolkata",
+    "is_popular": true
+    },
+    {
+    "rto_code": "MH-12",
+    "rto_name": "Pune",
+    "popular_city": "Pune",
+    "is_popular": true
+    },
+    {
+    "rto_code": "WB-05",
+    "rto_name": "Kolkata",
+    "popular_city": "Kolkata",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-01",
+    "rto_name": "Chennai Ayanavaram",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-12",
+    "rto_name": "Chennai Poonamallee",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "HR-55",
+    "rto_name": "Gurgaon",
+    "popular_city": "Gurgaon",
+    "is_popular": true
+    },
+    {
+    "rto_code": "MH-03",
+    "rto_name": "Mumbai Worli",
+    "popular_city": "Mumbai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "MH-43",
+    "rto_name": "Navi Mumbai",
+    "popular_city": "Mumbai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-14",
+    "rto_name": "Chennai Sholinganallur",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "HR-26",
+    "rto_name": "Gurgaon",
+    "popular_city": "Gurgaon",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-22",
+    "rto_name": "Meenambakkam Chennai",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "WB-02",
+    "rto_name": "Kolkata",
+    "popular_city": "Kolkata",
+    "is_popular": true
+    },
+    {
+    "rto_code": "WB-06",
+    "rto_name": "Kolkata",
+    "popular_city": "Kolkata",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-09",
+    "rto_name": "Chennai KK Nagar",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-10",
+    "rto_name": "Chennai Virugambakkam",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-11",
+    "rto_name": "Chennai Tambaram",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-07",
+    "rto_name": "Chennai Thiruvanmiyur",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-02",
+    "rto_name": "Chennai Annanagar",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-13",
+    "rto_name": "Chennai Ambattur",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-13",
+    "rto_name": "East Delhi Shahdara",
+    "popular_city": "New Delhi",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-11",
+    "rto_name": "North West Delhi",
+    "popular_city": "New Delhi",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-12",
+    "rto_name": "South West Delhi Vasant Vihar",
+    "popular_city": "New Delhi",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-05",
+    "rto_name": "Chennai",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-03",
+    "rto_name": "Chennai Tondiarpet",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-06",
+    "rto_name": "Chennai Mandaveli",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-04",
+    "rto_name": "Chennai Kolathur",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TN-18",
+    "rto_name": "Chennai Red Hills",
+    "popular_city": "Chennai",
+    "is_popular": true
+    },
+    {
+    "rto_code": "AP-09",
+    "rto_name": "Hyderabad",
+    "popular_city": "Hyderabad",
+    "is_popular": true
+    },
+    {
+    "rto_code": "MH-14",
+    "rto_name": "Pimpri-Chinchwad",
+    "popular_city": "Pune",
+    "is_popular": true
+    },
+    {
+    "rto_code": "WB-01",
+    "rto_name": "Kolkata",
+    "popular_city": "Kolkata",
+    "is_popular": true
+    },
+    {
+    "rto_code": "WB-10",
+    "rto_name": "Kolkata",
+    "popular_city": "Kolkata",
+    "is_popular": true
+    },
+    {
+    "rto_code": "WB-03",
+    "rto_name": "Kolkata",
+    "popular_city": "Kolkata",
+    "is_popular": true
+    },
+    {
+    "rto_code": "WB-07",
+    "rto_name": "Kolkata",
+    "popular_city": "Kolkata",
+    "is_popular": true
+    },
+    {
+    "rto_code": "KA-03",
+    "rto_name": "Bangalore Indiranagar",
+    "popular_city": "Bangalore",
+    "is_popular": true
+    },
+    {
+    "rto_code": "KA-01",
+    "rto_name": "Bangalore Kormangala",
+    "popular_city": "Bangalore",
+    "is_popular": true
+    },
+    {
+    "rto_code": "KA-05",
+    "rto_name": "Bangalore Jayanagar",
+    "popular_city": "Bangalore",
+    "is_popular": true
+    },
+    {
+    "rto_code": "KA-51",
+    "rto_name": "Bangalore Electronic City",
+    "popular_city": "Bangalore",
+    "is_popular": true
+    },
+    {
+    "rto_code": "KA-02",
+    "rto_name": "Bangalore Rajajinagar",
+    "popular_city": "Bangalore",
+    "is_popular": true
+    },
+    {
+    "rto_code": "KA-41",
+    "rto_name": "Bangalore Kengeri",
+    "popular_city": "Bangalore",
+    "is_popular": true
+    },
+    {
+    "rto_code": "KA-50",
+    "rto_name": "Bangalore Yalahanka",
+    "popular_city": "Bangalore",
+    "is_popular": true
+    },
+    {
+    "rto_code": "KA-60",
+    "rto_name": "RT Nagar Bangalore",
+    "popular_city": "Bangalore",
+    "is_popular": true
+    },
+    {
+    "rto_code": "KA-61",
+    "rto_name": "Marathahalli Bangalore",
+    "popular_city": "Bangalore",
+    "is_popular": true
+    },
+    {
+    "rto_code": "KA-52",
+    "rto_name": "Nelamangala Bangalore",
+    "popular_city": "Bangalore",
+    "is_popular": true
+    },
+    {
+    "rto_code": "KA-43",
+    "rto_name": "Devanahalli Bangalore",
+    "popular_city": "Bangalore",
+    "is_popular": true
+    },
+    {
+    "rto_code": "AP-11",
+    "rto_name": "Malakpet Hyderabad East",
+    "popular_city": "Hyderabad",
+    "is_popular": true
+    },
+    {
+    "rto_code": "AP-13",
+    "rto_name": "Tolichowki Hyderabad West",
+    "popular_city": "Hyderabad",
+    "is_popular": true
+    },
+    {
+    "rto_code": "AP-12",
+    "rto_name": "Kisanbagh Hyderabad South",
+    "popular_city": "Hyderabad",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TS-11",
+    "rto_name": "Malakpet Hyderabad East",
+    "popular_city": "Hyderabad",
+    "is_popular": true
+    },
+    {
+    "rto_code": "KA-10",
+    "rto_name": "Chamarajanagar",
+    "popular_city": "Bangalore",
+    "is_popular": true
+    },
+    {
+    "rto_code": "WB-08",
+    "rto_name": "Kolkata",
+    "popular_city": "Kolkata",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-16",
+    "rto_name": "Faridabad",
+    "popular_city": "Faridabad",
+    "is_popular": true
+    },
+    {
+    "rto_code": "DL-6",
+    "rto_name": "Delhi Central Sarai Kale Khan",
+    "popular_city": "New Delhi",
+    "is_popular": true
+    },
+    {
+    "rto_code": "HR-51",
+    "rto_name": "Faridabad",
+    "popular_city": "Faridabad",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TS-09",
+    "rto_name": "Hyderabad Central",
+    "popular_city": "Hyderabad",
+    "is_popular": true
+    },
+    {
+    "rto_code": "WB-09",
+    "rto_name": "Kolkata",
+    "popular_city": "Kolkata",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TS-13",
+    "rto_name": "Tolichowki Hyderabad West",
+    "popular_city": "Hyderabad",
+    "is_popular": true
+    },
+    {
+    "rto_code": "HR-38",
+    "rto_name": "Faridabad",
+    "popular_city": "Faridabad",
+    "is_popular": true
+    },
+    {
+    "rto_code": "KA-04",
+    "rto_name": "Bangalore Yashwanthpur",
+    "popular_city": "Bangalore",
+    "is_popular": true
+    },
+    {
+    "rto_code": "TS-14",
+    "rto_name": "Hyderabad",
+    "popular_city": "Hyderabad",
+    "is_popular": true
+    },
+    {
+    "rto_code": "GJ-1",
+    "rto_name": "Ahmedabad",
+    "popular_city": "Ahmedabad",
+    "is_popular": true
+    },
+    {
+    "rto_code": "KA-53",
+    "rto_name": "Bangalore Krishnarajpuram",
+    "popular_city": "Bangalore",
+    "is_popular": true
+    },
+    {
+    "rto_code": "HR-98",
+    "rto_name": "Badshahpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-26",
+    "rto_name": "Barasat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PY-02",
+    "rto_name": "Karaikal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-79",
+    "rto_name": "Kotkapura",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-76",
+    "rto_name": "Tenkasi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-75",
+    "rto_name": "Marthandam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-74",
+    "rto_name": "Nagercoil",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-73",
+    "rto_name": "Ranipet",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-72",
+    "rto_name": "Tirunelveli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-66",
+    "rto_name": "Bhadohi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-89",
+    "rto_name": "Badli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-18",
+    "rto_name": "Nahan",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-61",
+    "rto_name": "Kunnathur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-38",
+    "rto_name": "Hingoli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-57",
+    "rto_name": "Koduvally",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-23",
+    "rto_name": "Chikkodi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-20",
+    "rto_name": "Udupi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-26",
+    "rto_name": "Gadag",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-24",
+    "rto_name": "Bailhongal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-25",
+    "rto_name": "Dharwad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-42",
+    "rto_name": "Faizabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-65",
+    "rto_name": "Malda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-64",
+    "rto_name": "Cooch Behar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-63",
+    "rto_name": "Cooch Behar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-43",
+    "rto_name": "Ratlam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-29",
+    "rto_name": "Moga",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-26",
+    "rto_name": "Khanna",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-27",
+    "rto_name": "Kharar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-20",
+    "rto_name": "Balachaur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-21",
+    "rto_name": "Dasuya",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-63",
+    "rto_name": "Mirzapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-66",
+    "rto_name": "Malda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-57",
+    "rto_name": "Murshidabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-96",
+    "rto_name": "Kovilpatti",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-77",
+    "rto_name": "Attur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-28",
+    "rto_name": "Gopalganj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-41",
+    "rto_name": "Barabanki",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MZ-05",
+    "rto_name": "Kolasib",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-17",
+    "rto_name": "Baghpat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-64",
+    "rto_name": "Sonbhadra",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-12",
+    "rto_name": "Muzaffarnagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-11",
+    "rto_name": "Saharanpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-47",
+    "rto_name": "Rewari",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-91",
+    "rto_name": "Islampur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-21",
+    "rto_name": "Puttur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-31",
+    "rto_name": "Assam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-16",
+    "rto_name": "Rajgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-24",
+    "rto_name": "Barrackpore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-29",
+    "rto_name": "Bagalkot",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-95",
+    "rto_name": "Kumarsain",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-40",
+    "rto_name": "Bahraich",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-28",
+    "rto_name": "Malerkotla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-11",
+    "rto_name": "Arki",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-23",
+    "rto_name": "Barrackpore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-17",
+    "rto_name": "Paonta Sahib",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-15",
+    "rto_name": "Parwanoo",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-13",
+    "rto_name": "Kandaghat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-04",
+    "rto_name": "Chandikhole",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-29",
+    "rto_name": "Kayamkulam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-24",
+    "rto_name": "Garhshankar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-61",
+    "rto_name": "Balurghat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-19",
+    "rto_name": "Amb",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-10",
+    "rto_name": "Haridwar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-19",
+    "rto_name": "Parassala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-01",
+    "rto_name": "Patna",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-28",
+    "rto_name": "Mallappally",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-22",
+    "rto_name": "Alipore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-69",
+    "rto_name": "Alipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-87",
+    "rto_name": "Kanshiram Nagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-41",
+    "rto_name": "Dewas",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-44",
+    "rto_name": "Neemuch",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-18",
+    "rto_name": "Vatakara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-11",
+    "rto_name": "Kozhikode",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-12",
+    "rto_name": "Wayanad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-13",
+    "rto_name": "Kannur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-14",
+    "rto_name": "Kasaragod",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-17",
+    "rto_name": "Muvattupuzha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-10",
+    "rto_name": "Malappuram",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GA-13",
+    "rto_name": "Cotigao",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-43",
+    "rto_name": "Madhepura",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-44",
+    "rto_name": "Buxar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-45",
+    "rto_name": "Bhabua",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-15",
+    "rto_name": "Meerut",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-42",
+    "rto_name": "Shajapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-67",
+    "rto_name": "Bankura",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-70",
+    "rto_name": "Hosur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-93",
+    "rto_name": "Jangipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-46",
+    "rto_name": "Jamui",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-31",
+    "rto_name": "Hanumangarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-45",
+    "rto_name": "Ambedkar Nagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-42",
+    "rto_name": "Ganaur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-82",
+    "rto_name": "Etah",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-23",
+    "rto_name": "Beed",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-02",
+    "rto_name": "Nagaon",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-43",
+    "rto_name": "Gonda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-04",
+    "rto_name": "Sibsagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-05",
+    "rto_name": "Golaghat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-08",
+    "rto_name": "North Cachar Hills",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-09",
+    "rto_name": "Karbi Anglong",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-29",
+    "rto_name": "Yavatmal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-28",
+    "rto_name": "Buldana",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MZ-02",
+    "rto_name": "Lunglei",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-19",
+    "rto_name": "Kanker",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-18",
+    "rto_name": "Dantewada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-46",
+    "rto_name": "Rohtak",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-11",
+    "rto_name": "Janjgir-Champa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-12",
+    "rto_name": "Korba",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-15",
+    "rto_name": "Ambikapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-14",
+    "rto_name": "Jashpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-17",
+    "rto_name": "Jagdalpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-81",
+    "rto_name": "Aligarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "ML-10",
+    "rto_name": "Ri-Bhoi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-60",
+    "rto_name": "Kanhangad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-37",
+    "rto_name": "Kishanganj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-34",
+    "rto_name": "Karauli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-28",
+    "rto_name": "Bijapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-85",
+    "rto_name": "Mathura",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-06",
+    "rto_name": "Dibrugarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-10",
+    "rto_name": "Bilaspur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-17",
+    "rto_name": "Baragarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-44",
+    "rto_name": "Sultanpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-86",
+    "rto_name": "Payyannur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-30",
+    "rto_name": "Sitamrahi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-33",
+    "rto_name": "Samastipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-32",
+    "rto_name": "Madhubani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-57",
+    "rto_name": "Padrauna",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-39",
+    "rto_name": "Katihar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-38",
+    "rto_name": "Araria",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-16",
+    "rto_name": "Attingal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "DD-01",
+    "rto_name": "Diu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-26",
+    "rto_name": "Nuapada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-13",
+    "rto_name": "Bulandshahr",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-16",
+    "rto_name": "Baikunthpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-50",
+    "rto_name": "Tiruvarur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-05",
+    "rto_name": "Chamoli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-72",
+    "rto_name": "Pratapgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-24",
+    "rto_name": "Nabarangpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-87",
+    "rto_name": "Morinda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-40",
+    "rto_name": "Assandh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-41",
+    "rto_name": "Pehowa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-44",
+    "rto_name": "Ellanabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-49",
+    "rto_name": "Kalka",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-78",
+    "rto_name": "Konni",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-3",
+    "rto_name": "Rajkot",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-11",
+    "rto_name": "Giridih",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-12",
+    "rto_name": "Koderma",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-13",
+    "rto_name": "Chatra",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-15",
+    "rto_name": "Deoghar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-16",
+    "rto_name": "Pakur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-18",
+    "rto_name": "Sahibganj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-60",
+    "rto_name": "Gidderbaha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-62",
+    "rto_name": "Jaitu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-63",
+    "rto_name": "Khadoor",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-64",
+    "rto_name": "Moonak",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-66",
+    "rto_name": "Nihal Sing Wala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-69",
+    "rto_name": "Bagha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-44",
+    "rto_name": "Churah",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-18",
+    "rto_name": "Greater Noida",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-95",
+    "rto_name": "BARUIPUR",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "DN-09",
+    "rto_name": "Silvassa Dadar and Nagar Haveli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-01",
+    "rto_name": "Thiruvananthapuram",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-24",
+    "rto_name": "Latur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-17",
+    "rto_name": "Godda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-40",
+    "rto_name": "Kangra",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-17",
+    "rto_name": "Hawai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-23",
+    "rto_name": "Gariaband",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-70",
+    "rto_name": "Bantwal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-94",
+    "rto_name": "Palani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-90",
+    "rto_name": "Uchana",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-34",
+    "rto_name": "Khagaria",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-24",
+    "rto_name": "Krishnagiri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "DD-02",
+    "rto_name": "Diu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "DD-03",
+    "rto_name": "Daman",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-48",
+    "rto_name": "Chamba",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-54",
+    "rto_name": "Nagamangala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-46",
+    "rto_name": "Shrawasti",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-84",
+    "rto_name": "Mainpuri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-34",
+    "rto_name": "Midnapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-08",
+    "rto_name": "Bundi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-30",
+    "rto_name": "Tamluk",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-32",
+    "rto_name": "Contai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-38",
+    "rto_name": "Asansol",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-39",
+    "rto_name": "Durgapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-15",
+    "rto_name": "Abohar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-14",
+    "rto_name": "Ajnala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-16",
+    "rto_name": "Anandpur Sahib",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-12",
+    "rto_name": "Ropar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-19",
+    "rto_name": "Barnala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-18",
+    "rto_name": "Batala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-69",
+    "rto_name": "Panna",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-11",
+    "rto_name": "Patiala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-47",
+    "rto_name": "Balrampur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-10",
+    "rto_name": "Ludhiana",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-14",
+    "rto_name": "Garhwa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-23",
+    "rto_name": "Jharsuguda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-22",
+    "rto_name": "Bhadrak",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-21",
+    "rto_name": "Jagtial",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-37",
+    "rto_name": "Ambala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-86",
+    "rto_name": "Mahamaya Nagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-35",
+    "rto_name": "Narnaul",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-34",
+    "rto_name": "Mohindergarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-68",
+    "rto_name": "Dhar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-17",
+    "rto_name": "Baba Bakala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-19",
+    "rto_name": "Latehar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-46",
+    "rto_name": "Bharmour",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-47",
+    "rto_name": "Dalhosie",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-41",
+    "rto_name": "Kaza",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-42",
+    "rto_name": "Keylong",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-67",
+    "rto_name": "Ashoknagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-58",
+    "rto_name": "Sant Kabir Nagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-43",
+    "rto_name": "Udaipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-49",
+    "rto_name": "Banjar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-45",
+    "rto_name": "Karnal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-36",
+    "rto_name": "Midnapore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-33",
+    "rto_name": "Safidon",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-32",
+    "rto_name": "Narwana",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-25",
+    "rto_name": "Osmanabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-48",
+    "rto_name": "Tosham",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-93",
+    "rto_name": "Baddi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-60",
+    "rto_name": "Ballia",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-20",
+    "rto_name": "Namsai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-27",
+    "rto_name": "Jangaon",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-29",
+    "rto_name": "Suryapet",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-27",
+    "rto_name": "Amravati",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-01",
+    "rto_name": "Almora",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-26",
+    "rto_name": "Nanded",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-27",
+    "rto_name": "Udaipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-80",
+    "rto_name": "Agra",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-25",
+    "rto_name": "Jagraon",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-60",
+    "rto_name": "Periyakulam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-50",
+    "rto_name": "Karad Satara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-61",
+    "rto_name": "Ariyalur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-25",
+    "rto_name": "Thiruvannamalai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-02",
+    "rto_name": "Bageshwar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-31",
+    "rto_name": "Contai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-30",
+    "rto_name": "Srikakulam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-13",
+    "rto_name": "Sangrur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-33",
+    "rto_name": "Gajuwaka",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-10",
+    "rto_name": "Uttarkashi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-01",
+    "rto_name": "Guwahati",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-37",
+    "rto_name": "Eluru",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-67",
+    "rto_name": "Virudhnagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-12",
+    "rto_name": "Madikeri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-55",
+    "rto_name": "Mysore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-31",
+    "rto_name": "Visakhapatnam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-80",
+    "rto_name": "Pathanapuram",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-49",
+    "rto_name": "Nagpur Bhandara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-90",
+    "rto_name": "JALANDHAR",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "LD-08",
+    "rto_name": "Kalpeni",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-59",
+    "rto_name": "Madurai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-29",
+    "rto_name": "Surajpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-18",
+    "rto_name": "Nirmal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-22",
+    "rto_name": "Peddapalli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-96",
+    "rto_name": "Tauru",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-76",
+    "rto_name": "RLA Paddhar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-71",
+    "rto_name": "Nahan",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-73",
+    "rto_name": "Chamba",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-72",
+    "rto_name": "Una",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-27",
+    "rto_name": "Boudh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MN-03",
+    "rto_name": "Kangpokpi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MN-02",
+    "rto_name": "Churachandpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MN-01",
+    "rto_name": "Imphal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-63",
+    "rto_name": "Sivagagngai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-01",
+    "rto_name": "Ajmer",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-66",
+    "rto_name": "Coimbatore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MN-04",
+    "rto_name": "Thoubal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-69",
+    "rto_name": "Tuticorin",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-23",
+    "rto_name": "Anand",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-07",
+    "rto_name": "Gwalior",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-04",
+    "rto_name": "Bhopal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-58",
+    "rto_name": "Madurai SO",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-31",
+    "rto_name": "Jind",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-22",
+    "rto_name": "Parbhani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-01",
+    "rto_name": "Shimla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-02",
+    "rto_name": "Shimla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-03",
+    "rto_name": "Shimla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-04",
+    "rto_name": "Dharamsala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-05",
+    "rto_name": "Mandi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-78",
+    "rto_name": "Kalimpong",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-79",
+    "rto_name": "Kalimpong",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-71",
+    "rto_name": "Jalpaiguri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-72",
+    "rto_name": "Jalpaiguri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-20",
+    "rto_name": "Neyyattinkara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-70",
+    "rto_name": "Alipurduar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-02",
+    "rto_name": "Karimnagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-07",
+    "rto_name": "Lakhimpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-09",
+    "rto_name": "Tehri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-37",
+    "rto_name": "Palampur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-68",
+    "rto_name": "Kumbakonam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-95",
+    "rto_name": "Sampla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-23",
+    "rto_name": "Karunagappally",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-24",
+    "rto_name": "Kottarakara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-27",
+    "rto_name": "Thiruvalla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-08",
+    "rto_name": "Chaupal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-25",
+    "rto_name": "Punalur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-09",
+    "rto_name": "Theog",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-06",
+    "rto_name": "Morena",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-06",
+    "rto_name": "Rampur Busha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-55",
+    "rto_name": "Tirur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-52",
+    "rto_name": "SANKAGIRI",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-07",
+    "rto_name": "RLA Shimla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-22",
+    "rto_name": "Kazhakuttam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-30",
+    "rto_name": "Palwal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-36",
+    "rto_name": "Warangal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-8",
+    "rto_name": "Banaskantha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-78",
+    "rto_name": "Banga",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-27",
+    "rto_name": "Haveri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-74",
+    "rto_name": "Siliguri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-76",
+    "rto_name": "Darjeeling",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-77",
+    "rto_name": "Darjeeling",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-59",
+    "rto_name": "Dhuri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-58",
+    "rto_name": "Dera Babu Nanak",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-08",
+    "rto_name": "Guna",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-16",
+    "rto_name": "Tindivanam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-06",
+    "rto_name": "Vadodara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-51",
+    "rto_name": "Jhunir Sardulgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-50",
+    "rto_name": "Budhlada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-52",
+    "rto_name": "Bassi Pathana",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-55",
+    "rto_name": "Payal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-54",
+    "rto_name": "Mukerian",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-03",
+    "rto_name": "Tawang",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-07",
+    "rto_name": "Daporiji",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-88",
+    "rto_name": "Fatehpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-19",
+    "rto_name": "Alipore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-35",
+    "rto_name": "Panna",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-36",
+    "rto_name": "Tikamgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-17",
+    "rto_name": "Davangere",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-15",
+    "rto_name": "Sagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-13",
+    "rto_name": "Hassan",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-06",
+    "rto_name": "Muzaffarpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-11",
+    "rto_name": "Mandya",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-23",
+    "rto_name": "Jyotiba Phule Nagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-65",
+    "rto_name": "Ramanathpura",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-90",
+    "rto_name": "Shahpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-71",
+    "rto_name": "Bilaspur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-94",
+    "rto_name": "KANGRA",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-60",
+    "rto_name": "Hamirpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-22",
+    "rto_name": "Rampur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-27",
+    "rto_name": "Shahjahanpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-12",
+    "rto_name": "Phulbani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-25",
+    "rto_name": "Bareilly",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-24",
+    "rto_name": "Badaun",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-16",
+    "rto_name": "Chitradurga",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-33",
+    "rto_name": "Shivpuri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-91",
+    "rto_name": "Hamirpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-75",
+    "rto_name": "Etawah",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-18",
+    "rto_name": "Chickmagalur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-13",
+    "rto_name": "Puri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-55",
+    "rto_name": "Pudukottai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-01",
+    "rto_name": "Chattisgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-25",
+    "rto_name": "Nayagarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-30",
+    "rto_name": "Bhind",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TR-02",
+    "rto_name": "Kailshahar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-28",
+    "rto_name": "Baran",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-29",
+    "rto_name": "Dausa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-26",
+    "rto_name": "Tonk",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-24",
+    "rto_name": "Sirohi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-25",
+    "rto_name": "Sawaimadhopur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-22",
+    "rto_name": "Pali",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-23",
+    "rto_name": "Sikar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-21",
+    "rto_name": "Nagour",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-19",
+    "rto_name": "Jalgaon",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-15",
+    "rto_name": "Hooghly",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-18",
+    "rto_name": "Dhule",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-38",
+    "rto_name": "Raisen",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-39",
+    "rto_name": "Rajgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-01",
+    "rto_name": "Ranchi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-20",
+    "rto_name": "Bijnor",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-56",
+    "rto_name": "Raikot",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-74",
+    "rto_name": "Mewat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-53",
+    "rto_name": "Perinthalmanna",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-09",
+    "rto_name": "Pasighat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-08",
+    "rto_name": "Along",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-02",
+    "rto_name": "Itanagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-01",
+    "rto_name": "Itanagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-06",
+    "rto_name": "Ziro",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-05",
+    "rto_name": "Seppa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-04",
+    "rto_name": "Bomdila",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-59",
+    "rto_name": "Taliparamba",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-03",
+    "rto_name": "Tirupathi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-53",
+    "rto_name": "Malout",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-57",
+    "rto_name": "Bhulath",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-52",
+    "rto_name": "Pattambi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-58",
+    "rto_name": "Thalassery",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-75",
+    "rto_name": "Varkala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-96",
+    "rto_name": "Chitrakoot dham",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-76",
+    "rto_name": "Pataudi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-26",
+    "rto_name": "Adoor",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-95",
+    "rto_name": "Mahoba",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-90",
+    "rto_name": "Banda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-15",
+    "rto_name": "Sambalpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-39",
+    "rto_name": "Nandurbar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-34",
+    "rto_name": "Chandrapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-35",
+    "rto_name": "Gondia",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-36",
+    "rto_name": "Bhandara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-37",
+    "rto_name": "Washim",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-30",
+    "rto_name": "Akola",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-32",
+    "rto_name": "Wardha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-33",
+    "rto_name": "Gadchiroli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-01",
+    "rto_name": "Nirmal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-02",
+    "rto_name": "Anantapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-07",
+    "rto_name": "Guntur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-06",
+    "rto_name": "Kakinada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-25",
+    "rto_name": "Jahanabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-40",
+    "rto_name": "Durgapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-06",
+    "rto_name": "Mahasamund",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-05",
+    "rto_name": "Dhamtari",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-16",
+    "rto_name": "Hooghly",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-27",
+    "rto_name": "Nawada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-21",
+    "rto_name": "Nalanda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-49",
+    "rto_name": "Narsinghpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AN-02",
+    "rto_name": "Car Nicobar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AN-01",
+    "rto_name": "Port Blair",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-29",
+    "rto_name": "Siwan",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-02",
+    "rto_name": "Hazaribagh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-06",
+    "rto_name": "Chaibasa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-61",
+    "rto_name": "Kullu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-97",
+    "rto_name": "Ladwa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-52",
+    "rto_name": "Dindori",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-22",
+    "rto_name": "Bettiah",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-20",
+    "rto_name": "South 24 Paraganas",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-07",
+    "rto_name": "Gumla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-04",
+    "rto_name": "Dumka",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-30",
+    "rto_name": "Hardoi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-08",
+    "rto_name": "Lohardaga",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-31",
+    "rto_name": "Kheri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-89",
+    "rto_name": "Amritsar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-92",
+    "rto_name": "Jalaun",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-26",
+    "rto_name": "Aurangabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-07",
+    "rto_name": "Durg",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-04",
+    "rto_name": "Raipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-31",
+    "rto_name": "Sonepur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-31",
+    "rto_name": "Nagpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-35",
+    "rto_name": "Medak",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-08",
+    "rto_name": "Kalahandi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-53",
+    "rto_name": "Lakhisarai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-33",
+    "rto_name": "Mandi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-68",
+    "rto_name": "Chintamani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-34",
+    "rto_name": "Kullu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-09",
+    "rto_name": "Kapurthala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-56",
+    "rto_name": "Mahrajganj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-54",
+    "rto_name": "Salem",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-56",
+    "rto_name": "Perundurai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-73",
+    "rto_name": "Kaushambi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-49",
+    "rto_name": "Gokak",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-44",
+    "rto_name": "Tiptur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-89",
+    "rto_name": "Kalyani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-45",
+    "rto_name": "Akluj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-82",
+    "rto_name": "Mayiladuthurai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-20",
+    "rto_name": "Asifabad Komaram Bheem",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-03",
+    "rto_name": "Daltonganj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-30",
+    "rto_name": "Karsog",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-39",
+    "rto_name": "Dharamsala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-48",
+    "rto_name": "Jamkhandi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UA-12",
+    "rto_name": "Pauri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-24",
+    "rto_name": "Dehri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-35",
+    "rto_name": "Ani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-20",
+    "rto_name": "Gajapati",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-31",
+    "rto_name": "Sundernagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-36",
+    "rto_name": "Dehra",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-08",
+    "rto_name": "Guntur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-30",
+    "rto_name": "Yadadri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-45",
+    "rto_name": "Hunsur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-42",
+    "rto_name": "Ramanagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-05",
+    "rto_name": "Hoshangabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "ML-13",
+    "rto_name": "Resubelpara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-41",
+    "rto_name": "Burdwan",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-42",
+    "rto_name": "Burdwan",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-44",
+    "rto_name": "Asansol",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-16",
+    "rto_name": "Bharuch",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-06",
+    "rto_name": "Gurdaspur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-04",
+    "rto_name": "Faridkot",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-03",
+    "rto_name": "Bathinda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "NL-06",
+    "rto_name": "Zunheboto",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-81",
+    "rto_name": "Thiruverumbur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-76",
+    "rto_name": "Farrukhabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-61",
+    "rto_name": "Jalalabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-14",
+    "rto_name": "Amreli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-82",
+    "rto_name": "AHMADGARH",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-40",
+    "rto_name": "Chikkaballapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-11",
+    "rto_name": "Junagadh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-18",
+    "rto_name": "Gandhinagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-65",
+    "rto_name": "Varanasi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-69",
+    "rto_name": "Ranebennuru",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-67",
+    "rto_name": "Shahkot",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "SK-04",
+    "rto_name": "Gangtok",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-07",
+    "rto_name": "Hoshiarpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-08",
+    "rto_name": "Jalandhar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TR-03",
+    "rto_name": "Udaipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-57",
+    "rto_name": "Dindigul",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-29",
+    "rto_name": "Kendarapara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-20",
+    "rto_name": "Bijapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "SK-05",
+    "rto_name": "Gangtok",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "SK-02",
+    "rto_name": "Gangtok",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "SK-03",
+    "rto_name": "Gangtok",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-19",
+    "rto_name": "Bardoli Surat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-91",
+    "rto_name": "Gharaunda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-33",
+    "rto_name": "Gadwal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-48",
+    "rto_name": "Betul",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-91",
+    "rto_name": "Swarghat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-01",
+    "rto_name": "Bhopal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-17",
+    "rto_name": "Kamareddy",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-07",
+    "rto_name": "Kargil",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-05",
+    "rto_name": "Jamshedpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-02",
+    "rto_name": "Amritsar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-45",
+    "rto_name": "Tiruchirapalli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "SK-01",
+    "rto_name": "Gangtok",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-16",
+    "rto_name": "Ahmadnagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-11",
+    "rto_name": "Dhar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-18",
+    "rto_name": "Shahdol",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-16",
+    "rto_name": "Chhatarpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-17",
+    "rto_name": "Rewa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-12",
+    "rto_name": "Khandwa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-10",
+    "rto_name": "Khargone",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-34",
+    "rto_name": "Vikarabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-30",
+    "rto_name": "Chengannur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-23",
+    "rto_name": "Tinsukia",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-80",
+    "rto_name": "Barwala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-16",
+    "rto_name": "Vikasnagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-68",
+    "rto_name": "Panchkula",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-10",
+    "rto_name": "Sangli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-64",
+    "rto_name": "Kaithal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-24",
+    "rto_name": "Sirsa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-15",
+    "rto_name": "Valsad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-31",
+    "rto_name": "Mavelikara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-17",
+    "rto_name": "Godhra",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-12",
+    "rto_name": "Kutch",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-23",
+    "rto_name": "Fatehgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-79",
+    "rto_name": "Vellarikundu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-57",
+    "rto_name": "Rohtas",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-36",
+    "rto_name": "Vaikom",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-34",
+    "rto_name": "Kanjirappally",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-35",
+    "rto_name": "Palai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-46",
+    "rto_name": "Sakaleshapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-11",
+    "rto_name": "Chamoli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-47",
+    "rto_name": "Honnavar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GA-05",
+    "rto_name": "Ponda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-37",
+    "rto_name": "Vandiperiyar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-66",
+    "rto_name": "Singrauli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-27",
+    "rto_name": "Nuh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-22",
+    "rto_name": "Fatehabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-28",
+    "rto_name": "Ferozepur Zhirka",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-29",
+    "rto_name": "Dharmapuri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-27",
+    "rto_name": "Boudh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-68",
+    "rto_name": "Kangra",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-66",
+    "rto_name": "Kullu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-67",
+    "rto_name": "Hamirpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-64",
+    "rto_name": "Solan",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-65",
+    "rto_name": "Mandi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-62",
+    "rto_name": "DodraKwar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "NL-07",
+    "rto_name": "Dimapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-06",
+    "rto_name": "Pen",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-22",
+    "rto_name": "Dhemaji",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-21",
+    "rto_name": "Marigaon",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-24",
+    "rto_name": "Hailakandi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-27",
+    "rto_name": "Salem",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-11",
+    "rto_name": "Satara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GA-08",
+    "rto_name": "Margao",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GA-04",
+    "rto_name": "Bicholim",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GA-01",
+    "rto_name": "North Goa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GA-02",
+    "rto_name": "South Goa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-14",
+    "rto_name": "Rourkela",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-63",
+    "rto_name": "Shimla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-13",
+    "rto_name": "Solapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-22",
+    "rto_name": "Bhadrak",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-30",
+    "rto_name": "Malkangiri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-17",
+    "rto_name": "Srirampur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-28",
+    "rto_name": "Namakkal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-69",
+    "rto_name": "Bilaspur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-20",
+    "rto_name": "Hisar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-48",
+    "rto_name": "Amloh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-49",
+    "rto_name": "Khamono",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-42",
+    "rto_name": "Samana",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-43",
+    "rto_name": "Samrala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-40",
+    "rto_name": "Rampura",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-46",
+    "rto_name": "Tarn Taran",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-47",
+    "rto_name": "Zira",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-44",
+    "rto_name": "Sunam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-45",
+    "rto_name": "Talwandi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-37",
+    "rto_name": "Sehore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-20",
+    "rto_name": "Tiruvallur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CH-03",
+    "rto_name": "Chandigarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-05",
+    "rto_name": "Baramulla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-03",
+    "rto_name": "Bhopal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-95",
+    "rto_name": "Sivakasi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-36",
+    "rto_name": "Siddipet",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-25",
+    "rto_name": "Bemetara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-03",
+    "rto_name": "Jorhat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "SK-08",
+    "rto_name": "Singtam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GA-07",
+    "rto_name": "Panaji",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-19",
+    "rto_name": "Mangalore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MZ-03",
+    "rto_name": "Chimtuipui",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-14",
+    "rto_name": "Jaipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-06",
+    "rto_name": "Panipat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-06",
+    "rto_name": "Tumkur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-08",
+    "rto_name": "Kolar Gold Fields",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-14",
+    "rto_name": "Howrah",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-12",
+    "rto_name": "Howrah",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-13",
+    "rto_name": "Howrah",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "ML-02",
+    "rto_name": "Shillong",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-25",
+    "rto_name": "Guwahati",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-41",
+    "rto_name": "Sultanpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TR-01",
+    "rto_name": "Agartala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-21",
+    "rto_name": "Hansi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-23",
+    "rto_name": "Tohana",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GA-06",
+    "rto_name": "Vasco",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-29",
+    "rto_name": "Ballabgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-55",
+    "rto_name": "Nadaun",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-19",
+    "rto_name": "Charkhi Dadri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-15",
+    "rto_name": "Meham",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-17",
+    "rto_name": "Siwani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-11",
+    "rto_name": "Gohana",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UA-05",
+    "rto_name": "Pithoragarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-13",
+    "rto_name": "Sri Ganganagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-11",
+    "rto_name": "Dholpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-10",
+    "rto_name": "Churu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-17",
+    "rto_name": "Jhalawar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-16",
+    "rto_name": "Jalore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-15",
+    "rto_name": "Jaisalmer",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-19",
+    "rto_name": "Satna",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-14",
+    "rto_name": "Yingkiong",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-10",
+    "rto_name": "Anini",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-11",
+    "rto_name": "Tezu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-12",
+    "rto_name": "Changalang",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-10",
+    "rto_name": "Dhanbad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-02",
+    "rto_name": "Alwar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-65",
+    "rto_name": "Kurukshetra",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-63",
+    "rto_name": "Jhajjar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-69",
+    "rto_name": "Sonepat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-10",
+    "rto_name": "Sonepat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-14",
+    "rto_name": "Karimnagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UA-09",
+    "rto_name": "Tehri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UA-02",
+    "rto_name": "Bageshwar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-66",
+    "rto_name": "Narnaul",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-06",
+    "rto_name": "Udham Singh Nagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-67",
+    "rto_name": "Panipat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-97",
+    "rto_name": "Arani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-41",
+    "rto_name": "Malegaon",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-44",
+    "rto_name": "Ambejogai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-13",
+    "rto_name": "Ujjain",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-71",
+    "rto_name": "Fatehpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-49",
+    "rto_name": "Alathur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-40",
+    "rto_name": "Perumbavoor",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-45",
+    "rto_name": "Irinjalakuda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-10",
+    "rto_name": "Bhagalpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-19",
+    "rto_name": "Saharsa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-37",
+    "rto_name": "Asansol",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-38",
+    "rto_name": "Thodupuzha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-13",
+    "rto_name": "Khonsa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UA-08",
+    "rto_name": "Haridwar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-11",
+    "rto_name": "Purnea",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-17",
+    "rto_name": "Vijayawada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-42",
+    "rto_name": "North Paravur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-41",
+    "rto_name": "Aluva",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-44",
+    "rto_name": "Kothamangalam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-18",
+    "rto_name": "Vijayawada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-19",
+    "rto_name": "Vijayawada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UA-06",
+    "rto_name": "Udham Singh Nagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-13",
+    "rto_name": "Rudraprayag",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-13",
+    "rto_name": "Bhadurgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-19",
+    "rto_name": "Jodhpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-09",
+    "rto_name": "Mysore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-81",
+    "rto_name": "Feroke",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-96",
+    "rto_name": "Dheera",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-35",
+    "rto_name": "Unnao",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UA-04",
+    "rto_name": "Nanital",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-65",
+    "rto_name": "Mohali",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-07",
+    "rto_name": "Kolar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-11",
+    "rto_name": "Howrah",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-84",
+    "rto_name": "Bhawanigarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-97",
+    "rto_name": "Diamond Harbour",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-16",
+    "rto_name": "Bhiwani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-17",
+    "rto_name": "Dhanbad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UA-03",
+    "rto_name": "Champawat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-19",
+    "rto_name": "Ramnagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-48",
+    "rto_name": "Wadakkancherry",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-47",
+    "rto_name": "Kodungalloor",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-70",
+    "rto_name": "Allahabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-22",
+    "rto_name": "Hamirpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-20",
+    "rto_name": "Una",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-26",
+    "rto_name": "Nichar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-27",
+    "rto_name": "RLA Pooh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-02",
+    "rto_name": "Bhubaneswar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-46",
+    "rto_name": "Perambalur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-03",
+    "rto_name": "Banswara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-39",
+    "rto_name": "Bhalki",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-38",
+    "rto_name": "Bidar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CH-02",
+    "rto_name": "Chandigarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-46",
+    "rto_name": "Guruvayur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-24",
+    "rto_name": "Patan",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-31",
+    "rto_name": "Sirsi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-21",
+    "rto_name": "Muradabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-12",
+    "rto_name": "Pauri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-01",
+    "rto_name": "Balasore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-08",
+    "rto_name": "Thrissur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-34",
+    "rto_name": "Bellary",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-74",
+    "rto_name": "Kannauj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-61",
+    "rto_name": "Ghazipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-53",
+    "rto_name": "Birbhum",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-51",
+    "rto_name": "Nadia",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-56",
+    "rto_name": "Purulia",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-54",
+    "rto_name": "Birbhum",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-55",
+    "rto_name": "Purulia",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-58",
+    "rto_name": "Murshidabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-31",
+    "rto_name": "Sheopur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-33",
+    "rto_name": "Nakodar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-31",
+    "rto_name": "Mansa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-37",
+    "rto_name": "Philaur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-36",
+    "rto_name": "Phagwara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-35",
+    "rto_name": "Pathankot",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-34",
+    "rto_name": "Nabha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-51",
+    "rto_name": "Nagapattinam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-39",
+    "rto_name": "Rajpura",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-18",
+    "rto_name": "Hooghly",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-39",
+    "rto_name": "Hisar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-09",
+    "rto_name": "Chittaurgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-50",
+    "rto_name": "Azamgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-22",
+    "rto_name": "Narmada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-21",
+    "rto_name": "Navsari",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-27",
+    "rto_name": "Ahmedabad East",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-21",
+    "rto_name": "Nedumangad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-25",
+    "rto_name": "Porbandar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-52",
+    "rto_name": "Deoria",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-57",
+    "rto_name": "Sirsa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-50",
+    "rto_name": "Balaghat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-20",
+    "rto_name": "Dahod",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-32",
+    "rto_name": "Nawanshahr",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-26",
+    "rto_name": "Pilibhit",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-23",
+    "rto_name": "Ghumarwin",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-21",
+    "rto_name": "Barsar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-25",
+    "rto_name": "Kalpa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-42",
+    "rto_name": "Tirrupur S",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-29",
+    "rto_name": "Jogendranagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-16",
+    "rto_name": "Vijayawada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-42",
+    "rto_name": "Baramati",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-62",
+    "rto_name": "Balurghat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UA-10",
+    "rto_name": "Uttarkashi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-59",
+    "rto_name": "Rajganj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-26",
+    "rto_name": "Sukma",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-82",
+    "rto_name": "Iritty",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-84",
+    "rto_name": "Vellarikundu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-38",
+    "rto_name": "Patti",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-04",
+    "rto_name": "Budgam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-53",
+    "rto_name": "Sidhi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-54",
+    "rto_name": "Umariya",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-43",
+    "rto_name": "Mattancherry",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-37",
+    "rto_name": "Koppal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-33",
+    "rto_name": "Yadgir",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-30",
+    "rto_name": "Karwar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-52",
+    "rto_name": "Nadia",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-07",
+    "rto_name": "Dehradun",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-27",
+    "rto_name": "Kondagaon",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-40",
+    "rto_name": "Wadi Nagpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-53",
+    "rto_name": "Gorakhpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-32",
+    "rto_name": "Biswanath Chariali",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-28",
+    "rto_name": "Sarkaghat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-62",
+    "rto_name": "Jaunpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-04",
+    "rto_name": "Alappuzha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-28",
+    "rto_name": "Chhindwara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-04",
+    "rto_name": "Chandikhole",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-31",
+    "rto_name": "Cuddalore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-21",
+    "rto_name": "Katni",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-54",
+    "rto_name": "Mau",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-09",
+    "rto_name": "Palakkad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-06",
+    "rto_name": "Idukki",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-05",
+    "rto_name": "Kottayam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-03",
+    "rto_name": "Pathanamthitta",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-02",
+    "rto_name": "Kollam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-15",
+    "rto_name": "Medak",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-51",
+    "rto_name": "Basti",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-52",
+    "rto_name": "Lakhisarai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-50",
+    "rto_name": "Supaul",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-50",
+    "rto_name": "Hodal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-30",
+    "rto_name": "Muktsar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-83",
+    "rto_name": "Payyannur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-26",
+    "rto_name": "Bilaspur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-36",
+    "rto_name": "Raichur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-05",
+    "rto_name": "Ferozepur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-35",
+    "rto_name": "Hospet",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-20",
+    "rto_name": "Jabalpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-07",
+    "rto_name": "Ganjam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-56",
+    "rto_name": "Jind",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-25",
+    "rto_name": "Barasat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-17",
+    "rto_name": "Dhubri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-16",
+    "rto_name": "Kokrajhar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-15",
+    "rto_name": "Barpeta",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-14",
+    "rto_name": "Nalbari",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-13",
+    "rto_name": "Darrang",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-12",
+    "rto_name": "Sonitpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-11",
+    "rto_name": "Cachar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-10",
+    "rto_name": "Karimganj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-51",
+    "rto_name": "Shimla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-50",
+    "rto_name": "Shimla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-19",
+    "rto_name": "Bongaigaon",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-18",
+    "rto_name": "Goalpara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "ML-09",
+    "rto_name": "South Garo Hills",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "ML-08",
+    "rto_name": "West Garo Hills",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-78",
+    "rto_name": "Kanpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "ML-01",
+    "rto_name": "Shillong",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "ML-03",
+    "rto_name": "Shillong",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-30",
+    "rto_name": "Malkangiri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "ML-05",
+    "rto_name": "East Khasi Hills",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "ML-04",
+    "rto_name": "Jaintia Hills",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "ML-07",
+    "rto_name": "East Garo Hills",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "ML-06",
+    "rto_name": "West Khasi Hills",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-34",
+    "rto_name": "Sitapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-38",
+    "rto_name": "Eluru",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-08",
+    "rto_name": "Ratnagiri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-68",
+    "rto_name": "Bankura",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-55",
+    "rto_name": "Siddharth Nagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-03",
+    "rto_name": "Pitharogarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-53",
+    "rto_name": "Shahpura",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-77",
+    "rto_name": "Beri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-53",
+    "rto_name": "Baijnath",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-37",
+    "rto_name": "Didwana",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-22",
+    "rto_name": "Seoni",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-53",
+    "rto_name": "Adampur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-58",
+    "rto_name": "Jagadhari",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-35",
+    "rto_name": "Vizianagaram",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-74",
+    "rto_name": "Nangal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-33",
+    "rto_name": "Erode",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-70",
+    "rto_name": "Dera Bassi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-73",
+    "rto_name": "Palwal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-32",
+    "rto_name": "Villupuram",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-30",
+    "rto_name": "Salem Town",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-37",
+    "rto_name": "Sulur Coimbatore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-39",
+    "rto_name": "Tiruppur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-38",
+    "rto_name": "Coimbatore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-21",
+    "rto_name": "Samba",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-4",
+    "rto_name": "Bhavnagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-56",
+    "rto_name": "Basavakalyan",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-01",
+    "rto_name": "Almora",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-20",
+    "rto_name": "Ranikhet",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-52",
+    "rto_name": "Shimla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-07",
+    "rto_name": "Ernakulam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-62",
+    "rto_name": "Surathkal Mangalore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-05",
+    "rto_name": "Pithoragarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-64",
+    "rto_name": "Madhugiri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-36",
+    "rto_name": "Beawar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-10",
+    "rto_name": "Koraput",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-36",
+    "rto_name": "Gobichettipalayam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-18",
+    "rto_name": "Rayagada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-19",
+    "rto_name": "Angul",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-31",
+    "rto_name": "Sonepur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-18",
+    "rto_name": "Chaibassa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-41",
+    "rto_name": "Chomu, Jaipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-42",
+    "rto_name": "Kishangarh, Ajmer",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-85",
+    "rto_name": "Manjeshwar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-15",
+    "rto_name": "Karimnagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-14",
+    "rto_name": "Rishikesh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "ML-56",
+    "rto_name": "Shillong",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-29",
+    "rto_name": "Vadodra",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-68",
+    "rto_name": "Burhanpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-44",
+    "rto_name": "Sujangarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-11",
+    "rto_name": "Mayurbhanj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-72",
+    "rto_name": "Mananthavady",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-65",
+    "rto_name": "Anuppur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-40",
+    "rto_name": "Bhiwadi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-79",
+    "rto_name": "Sangrah Sirmaur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-21",
+    "rto_name": "Jagatsinghpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GA-11",
+    "rto_name": "Pernem",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-48",
+    "rto_name": "Bolpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-50",
+    "rto_name": "Nokha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GA-10",
+    "rto_name": "Canacona",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-39",
+    "rto_name": "Balotra",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-73",
+    "rto_name": "Sulthan Bathery",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-84",
+    "rto_name": "Sivakasi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-90",
+    "rto_name": "Kalyani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-67",
+    "rto_name": "Uzhavoor ",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-77",
+    "rto_name": "Dodra Kawar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-34",
+    "rto_name": "Thiruchengode",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-78",
+    "rto_name": "Shahabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-18",
+    "rto_name": "Kashipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-10",
+    "rto_name": "Jamnagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GA-12",
+    "rto_name": "Dharbandora",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-78",
+    "rto_name": "Bangana",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-34",
+    "rto_name": "Dwarka",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TR-04",
+    "rto_name": "Ambassa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-75",
+    "rto_name": "Indri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-04",
+    "rto_name": "Khammam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-37",
+    "rto_name": "Chhota Udaipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-17",
+    "rto_name": "Roorkee",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-05",
+    "rto_name": "Nalgonda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-01",
+    "rto_name": "Adilabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-70",
+    "rto_name": "Chittur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-90",
+    "rto_name": "Salem South",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-24",
+    "rto_name": "Bilaspur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-27",
+    "rto_name": "Udalguri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-53",
+    "rto_name": "Pune South",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-54",
+    "rto_name": "Pune North",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-09",
+    "rto_name": "Indore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-14",
+    "rto_name": "Shimoga",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-66",
+    "rto_name": "Tarikere",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-34",
+    "rto_name": "Jajpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-68",
+    "rto_name": "Devikulam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-83",
+    "rto_name": "Firozabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-43",
+    "rto_name": "Kosli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-46",
+    "rto_name": "Badwani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-32",
+    "rto_name": "Gulbarga",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-56",
+    "rto_name": "Arwal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-32",
+    "rto_name": "Lucknow",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-01",
+    "rto_name": "Ambala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MN-05",
+    "rto_name": "Bishnupur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CH-01",
+    "rto_name": "Chandigarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-52",
+    "rto_name": "Shahpura, Jaipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-40",
+    "rto_name": "Deoghar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-28",
+    "rto_name": "Surat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-03",
+    "rto_name": "Anantnag",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "LD-09",
+    "rto_name": "Minicoy",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-15",
+    "rto_name": "Kotdwara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-18",
+    "rto_name": "Kulgam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-32",
+    "rto_name": "Bhanjanagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-35",
+    "rto_name": "Talcher",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-04",
+    "rto_name": "Nanital",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-73",
+    "rto_name": "Siliguri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-28",
+    "rto_name": "Rangareddy",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-09",
+    "rto_name": "Kolhapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-93",
+    "rto_name": "Jhansi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-69",
+    "rto_name": "Udumbanchola",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-30",
+    "rto_name": "Balrampur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-51",
+    "rto_name": "Nashik",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-92",
+    "rto_name": "Thiruchendur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-28",
+    "rto_name": "Baksa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-55",
+    "rto_name": "Sheohar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "NL-10",
+    "rto_name": "Kohima",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-88",
+    "rto_name": "Kundli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-59",
+    "rto_name": "Solan",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-14",
+    "rto_name": "Ghaziabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-25",
+    "rto_name": "Nayagarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-03",
+    "rto_name": "Warangal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-16",
+    "rto_name": "Nizamabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-27",
+    "rto_name": "Ambikapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-58",
+    "rto_name": "Banashankari",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-23",
+    "rto_name": "Vellore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-09",
+    "rto_name": "Uttarkashi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-04",
+    "rto_name": "Udham Singh Nagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-09",
+    "rto_name": "Bokaro",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-67",
+    "rto_name": "Sedam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-15",
+    "rto_name": "Sagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-41",
+    "rto_name": "Pollachi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-07",
+    "rto_name": "Rangareddy",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-80",
+    "rto_name": "Haroli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-02",
+    "rto_name": "Jammu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-15",
+    "rto_name": "Kurung Kumey",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-14",
+    "rto_name": "Rourkela",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-15",
+    "rto_name": "Sambalpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-12",
+    "rto_name": "Phulbani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-13",
+    "rto_name": "Puri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-11",
+    "rto_name": "Mayurbhanj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-10",
+    "rto_name": "Koraput",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-09",
+    "rto_name": "Keonjhar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-34",
+    "rto_name": "Visakhapatnam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-52",
+    "rto_name": "Parbhani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-55",
+    "rto_name": "Bagli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-83",
+    "rto_name": "Jawalaji",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-06",
+    "rto_name": "Mahbubnagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-2",
+    "rto_name": "Mehsana",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-43",
+    "rto_name": "Kalna (Transport Vehicles)",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TR-06",
+    "rto_name": "Khowai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-23",
+    "rto_name": "Jharsuguda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-99",
+    "rto_name": "Coimbatore City West",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-09",
+    "rto_name": "Keonjhar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-16",
+    "rto_name": "Sundergarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-19",
+    "rto_name": "Angul",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-05",
+    "rto_name": "Cuttack",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-03",
+    "rto_name": "Bolangir",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-02",
+    "rto_name": "Bhubaneswar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-33",
+    "rto_name": "Rai Bareli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-28",
+    "rto_name": "Debagarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-24",
+    "rto_name": "Nabarangpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-70",
+    "rto_name": "Bilaspur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-20",
+    "rto_name": "Gajapati",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-22",
+    "rto_name": "Saraikela-Kharsawan",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-13",
+    "rto_name": "Raigarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-58",
+    "rto_name": "Manali",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-21",
+    "rto_name": "Jagatsinghpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-16",
+    "rto_name": "Sundergarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-17",
+    "rto_name": "Baragarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-01",
+    "rto_name": "Balasore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-03",
+    "rto_name": "Bolangir",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-08",
+    "rto_name": "Kalahandi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-47",
+    "rto_name": "Harda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-40",
+    "rto_name": "Vidisha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-96",
+    "rto_name": "Baruipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-91",
+    "rto_name": "Chidambaram",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-06",
+    "rto_name": "Dhenkanal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-05",
+    "rto_name": "Cuttack",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-18",
+    "rto_name": "Rayagada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-06",
+    "rto_name": "Dhenkanal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TR-07",
+    "rto_name": "Sepahijala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-33",
+    "rto_name": "Bhubaneshwar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UA-11",
+    "rto_name": "Chamoli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-9",
+    "rto_name": "Sabarkantha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-72",
+    "rto_name": "Patran",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-76",
+    "rto_name": "Ahmedgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-77",
+    "rto_name": "Guru Har Sahai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-83",
+    "rto_name": "Vellore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-86",
+    "rto_name": "Erode West",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-17",
+    "rto_name": "Hooghly Srirampur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-83",
+    "rto_name": "Kalayat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-82",
+    "rto_name": "Raghunathpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-60",
+    "rto_name": "Rajganj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-51",
+    "rto_name": "Mandla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-25",
+    "rto_name": "Jagdalpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TR-08",
+    "rto_name": "Santirbazar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-23",
+    "rto_name": "Sircilla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-55",
+    "rto_name": "Pune North",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-28",
+    "rto_name": "Debagarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-29",
+    "rto_name": "Kendarapara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MN-06",
+    "rto_name": "Imphal East",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GA-03",
+    "rto_name": "Mapusa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-22",
+    "rto_name": "Fazilka",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-61",
+    "rto_name": "Bhiwani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-88",
+    "rto_name": "Bishnupur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TR-05",
+    "rto_name": "Dharmanagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-19",
+    "rto_name": "Chengalpattu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-98",
+    "rto_name": "Diamond Harbour",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-36",
+    "rto_name": "Rewari",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-18",
+    "rto_name": "Loharu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-7",
+    "rto_name": "Kheda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-20",
+    "rto_name": "Assam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-35",
+    "rto_name": "Pratapgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-71",
+    "rto_name": "Nilambur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-63",
+    "rto_name": "Angamaly",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-31",
+    "rto_name": "Vaishali",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OR-07",
+    "rto_name": "Ganjam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-88",
+    "rto_name": "Paramathi Velur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-52",
+    "rto_name": "Hathin",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-47",
+    "rto_name": "Koderma",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-60",
+    "rto_name": "Samalkha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "NL-08",
+    "rto_name": "Phek",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MZ-07",
+    "rto_name": "Lawngtlai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-14",
+    "rto_name": "Mandsor",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-21",
+    "rto_name": "Sriperumbudur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MZ-06",
+    "rto_name": "Serchhip",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MZ-04",
+    "rto_name": "Champhai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-38",
+    "rto_name": "Noorpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-15",
+    "rto_name": "Palamu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-43",
+    "rto_name": "Gudalur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-26",
+    "rto_name": "Vyara Tapi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-08",
+    "rto_name": "Tehri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-30",
+    "rto_name": "Assam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MZ-08",
+    "rto_name": "Mamit",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-57",
+    "rto_name": "Chowari",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-12",
+    "rto_name": "Dumka",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-56",
+    "rto_name": "Jaisinghpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-65",
+    "rto_name": "Thirurangadi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-62",
+    "rto_name": "Ranni",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-74",
+    "rto_name": "Bhoranj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-79",
+    "rto_name": "Kharkhoda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-28",
+    "rto_name": "Ayodhya",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-01",
+    "rto_name": "Chandigarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-15",
+    "rto_name": "Kallakuruchi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-03",
+    "rto_name": "Chattisgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-45",
+    "rto_name": "Pangi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-45",
+    "rto_name": "Jhabua",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-62",
+    "rto_name": "Fatehabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-92",
+    "rto_name": "Islampur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-12",
+    "rto_name": "Dhungarpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-37",
+    "rto_name": "Hapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-78",
+    "rto_name": "Udumalpet",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-34",
+    "rto_name": "Damoh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-75",
+    "rto_name": "Lehragaga",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GA-09",
+    "rto_name": "QUEPEM",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-32",
+    "rto_name": "Gohar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-59",
+    "rto_name": "Ratia",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-71",
+    "rto_name": "Chamkaur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-35",
+    "rto_name": "Mahisagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-64",
+    "rto_name": "Chalakkudy",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-30",
+    "rto_name": "Dang",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-43",
+    "rto_name": "Phalodi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-07",
+    "rto_name": "Sindhudurg",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-02",
+    "rto_name": "Bhopal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-51",
+    "rto_name": "Shahpura",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-19",
+    "rto_name": "Shamli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-93",
+    "rto_name": "Mettur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-22",
+    "rto_name": "Baloda Bazaar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-54",
+    "rto_name": "Barara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-63",
+    "rto_name": "Hubballi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-76",
+    "rto_name": "Nanmanda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-15",
+    "rto_name": "Nashik",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-06",
+    "rto_name": "Doda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-81",
+    "rto_name": "Salooni",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "ML-11",
+    "rto_name": "Khliehriat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-38",
+    "rto_name": "Rawatbhata",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-19",
+    "rto_name": "Mancherial",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-51",
+    "rto_name": "Banka",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-28",
+    "rto_name": "Mungeli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-84",
+    "rto_name": "Charkhi Dadri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-35",
+    "rto_name": "Sahebganj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-12",
+    "rto_name": "Rohtak",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UA-07",
+    "rto_name": "Dehradun",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-32",
+    "rto_name": "Cherthala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-77",
+    "rto_name": "Pathanapuram",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "DL-18",
+    "rto_name": "Ghaziabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-46",
+    "rto_name": "Bhinmal (Jalore)",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-31",
+    "rto_name": "Gandhidham",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-24",
+    "rto_name": "Balod",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-24",
+    "rto_name": "Ramgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-73",
+    "rto_name": "Tappa Mandi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-32",
+    "rto_name": "Botad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-33",
+    "rto_name": "Aravalli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-79",
+    "rto_name": "Sankarankoil",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-54",
+    "rto_name": "Jawali",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-33",
+    "rto_name": "Changanassery",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-25",
+    "rto_name": "Dabwali",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-65",
+    "rto_name": "Dandeli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AS-26",
+    "rto_name": "Chirang",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-49",
+    "rto_name": "Nohar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UA-13",
+    "rto_name": "Rudraprayag",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-17",
+    "rto_name": "Kishtawar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-01",
+    "rto_name": "Srinagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-39",
+    "rto_name": "Thripunithura",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-82",
+    "rto_name": "Mandi (Rural)",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-15",
+    "rto_name": "Bandipora",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-16",
+    "rto_name": "Ganderbal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "DL-14",
+    "rto_name": "Sonipat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-21",
+    "rto_name": "Jalna",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "DL-17",
+    "rto_name": "Noida",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-38",
+    "rto_name": "Sambhal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-28",
+    "rto_name": "Bangaon",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-57",
+    "rto_name": "Shantinagar Bangalore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-86",
+    "rto_name": "Dharampur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-10",
+    "rto_name": "Secunderabad Hyderabad North",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-59",
+    "rto_name": "Chamrajpet Bangalore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-48",
+    "rto_name": "Kekri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MN-07",
+    "rto_name": "Ukhrul",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-66",
+    "rto_name": "Kuttanadu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-84",
+    "rto_name": "Chanchol",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-45",
+    "rto_name": "Jaipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-10",
+    "rto_name": "Secunderabad Hyderabad North",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-46",
+    "rto_name": "Rampurhat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-09",
+    "rto_name": "Kupwara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-20",
+    "rto_name": "Bokaro",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-84",
+    "rto_name": "Sujanpur Tihra",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-12",
+    "rto_name": "Kisanbagh Hyderabad South",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-70",
+    "rto_name": "Chandigarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-05",
+    "rto_name": "Kakinada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-47",
+    "rto_name": "Bolpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-21",
+    "rto_name": "Narayanpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-74",
+    "rto_name": "Kattakada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-29",
+    "rto_name": "Rangareddy",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-08",
+    "rto_name": "Uppal Kalan-Medchal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-02",
+    "rto_name": "Chattisgarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-46",
+    "rto_name": "Panvel",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-14",
+    "rto_name": "Jhajjar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-87",
+    "rto_name": "Sriperumbudur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-94",
+    "rto_name": "Kalanwali",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-93",
+    "rto_name": "Sohna",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-92",
+    "rto_name": "Radaur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-20",
+    "rto_name": "Kota",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-38",
+    "rto_name": "Bavla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-5",
+    "rto_name": "Surat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-36",
+    "rto_name": "Morbi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-18",
+    "rto_name": "Jhunjhunu",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-47",
+    "rto_name": "Dudu, Jaipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-15",
+    "rto_name": "Thiruvananthapuram",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-32",
+    "rto_name": "Visakhapatnam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CH-04",
+    "rto_name": "Chandigarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-64",
+    "rto_name": "Madurai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-36",
+    "rto_name": "Lucknow",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-08",
+    "rto_name": "Kathua",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-81",
+    "rto_name": "Bawal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-24",
+    "rto_name": "Warangal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-35",
+    "rto_name": "Kharagpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-25",
+    "rto_name": "Jayashankar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-49",
+    "rto_name": "Jhargram",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-85",
+    "rto_name": "Shillai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-22",
+    "rto_name": "Shopian",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-89",
+    "rto_name": "Jhandutta",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-82",
+    "rto_name": "Kanina",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "LD-04",
+    "rto_name": "Androth",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "LD-07",
+    "rto_name": "Chetlat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-50",
+    "rto_name": "Jhargram",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-26",
+    "rto_name": "Mahabubabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-07",
+    "rto_name": "Dehradun",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-10",
+    "rto_name": "Leh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-86",
+    "rto_name": "Sonipat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-14",
+    "rto_name": "Ranchi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-31",
+    "rto_name": "Nagarkurnool",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-86",
+    "rto_name": "Mathabhanga",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-92",
+    "rto_name": "Rampur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "LD-03",
+    "rto_name": "Amini",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-11",
+    "rto_name": "Rajouri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-23",
+    "rto_name": "Giridih",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-32",
+    "rto_name": "Wanaparthy",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-80",
+    "rto_name": "Dabwali",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-23",
+    "rto_name": "Khunti",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-12",
+    "rto_name": "Poonch",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-16",
+    "rto_name": "Jamshedpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "LD-02",
+    "rto_name": "Agatti",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-13",
+    "rto_name": "Pulwama",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-20",
+    "rto_name": "Reasi",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-24",
+    "rto_name": "Durg",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PB-91",
+    "rto_name": "Ludhiana",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "LD-05",
+    "rto_name": "Kadmat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-14",
+    "rto_name": "Udhampur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-29",
+    "rto_name": "Rajnandgaon",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-70",
+    "rto_name": "Agar-Malwa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JK-19",
+    "rto_name": "Ramban",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-23",
+    "rto_name": "Raipur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UA-01",
+    "rto_name": "Almora",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-13",
+    "rto_name": "Hazaribagh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-36",
+    "rto_name": "Godda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-39",
+    "rto_name": "Prakasam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-02",
+    "rto_name": "Haldwani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-41",
+    "rto_name": "Gumla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-42",
+    "rto_name": "Lohardaga",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PY-05",
+    "rto_name": "Oulgaret",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "DL-30",
+    "rto_name": "Noida",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-14",
+    "rto_name": "Solan",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-48",
+    "rto_name": "Sri Rangam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-49",
+    "rto_name": "Tanjavur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-30",
+    "rto_name": "Rajsamad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-77",
+    "rto_name": "Kanpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AR-16",
+    "rto_name": "Roing",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-04",
+    "rto_name": "Barmer",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-06",
+    "rto_name": "Bhilwara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-07",
+    "rto_name": "Bikaner",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-16",
+    "rto_name": "Noida",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-08",
+    "rto_name": "Kaithal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-05",
+    "rto_name": "Karnal",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-07",
+    "rto_name": "Kurukshetra",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-02",
+    "rto_name": "Jagadhri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MZ-01",
+    "rto_name": "Aizawl",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MP-32",
+    "rto_name": "Datia",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-33",
+    "rto_name": "Ramganj",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-40",
+    "rto_name": "Mettupalayam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PY-03",
+    "rto_name": "Mahe",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-04",
+    "rto_name": "Naraingarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PY-04",
+    "rto_name": "Yanam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-33",
+    "rto_name": "Midnapur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-08",
+    "rto_name": "Rajnandgaon",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TN-47",
+    "rto_name": "Karur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "CG-09",
+    "rto_name": "Kawardha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-32",
+    "rto_name": "Kotputli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "LD-01",
+    "rto_name": "Kavaratti",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-07",
+    "rto_name": "Darbhanga",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-56",
+    "rto_name": "Koyilandy",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "GJ-13",
+    "rto_name": "Surendranagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-51",
+    "rto_name": "Ottappalam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-26",
+    "rto_name": "Nellore",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-25",
+    "rto_name": "Nizamabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-24",
+    "rto_name": "Nalgonda",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-21",
+    "rto_name": "Kurnool",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-20",
+    "rto_name": "Khammam",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-79",
+    "rto_name": "Auraiya",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "NL-02",
+    "rto_name": "Mokokchung",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "NL-03",
+    "rto_name": "Tuensang",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "NL-01",
+    "rto_name": "Kohima",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-09",
+    "rto_name": "Begusarai",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "NL-04",
+    "rto_name": "Mon",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "NL-05",
+    "rto_name": "Wokha",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-04",
+    "rto_name": "Chapra",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-05",
+    "rto_name": "Motihari",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-94",
+    "rto_name": "Lalitpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-04",
+    "rto_name": "Kadapa",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-02",
+    "rto_name": "Gaya",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-03",
+    "rto_name": "Bhojpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-20",
+    "rto_name": "Simdega",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "JH-21",
+    "rto_name": "Jamtara",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "PY-01",
+    "rto_name": "Puducherry",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "OD-26",
+    "rto_name": "Nuapada",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "MH-20",
+    "rto_name": "Aurangabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-87",
+    "rto_name": "Faridabad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-06",
+    "rto_name": "Pauri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-57",
+    "rto_name": "Sumerpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "RJ-05",
+    "rto_name": "Bharatpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-03",
+    "rto_name": "Panchkula",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-12",
+    "rto_name": "Nalagarh",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-09",
+    "rto_name": "Guhla",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UP-67",
+    "rto_name": "Chandauli",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-54",
+    "rto_name": "Ponnani",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-22",
+    "rto_name": "Mahaboobnagar",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-27",
+    "rto_name": "Ongole",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-03",
+    "rto_name": "Champawat",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KL-50",
+    "rto_name": "Mannarkkad",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "BR-08",
+    "rto_name": "Munger",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "AP-23",
+    "rto_name": "Sangareddy",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-10",
+    "rto_name": "Rohru",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-29",
+    "rto_name": "Tamluk",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "WB-94",
+    "rto_name": "Jangirpur",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "KA-22",
+    "rto_name": "Belgaum",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HR-85",
+    "rto_name": "Ambala",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "SK-07",
+    "rto_name": "Sikkim",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "TS-28",
+    "rto_name": "Bhadradri",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "HP-97",
+    "rto_name": "INDORA",
+    "popular_city": null,
+    "is_popular": null
+    },
+    {
+    "rto_code": "UK-08",
+    "rto_name": "Haridwar",
+    "popular_city": null,
+    "is_popular": null
+    }
+    ]
+    }
