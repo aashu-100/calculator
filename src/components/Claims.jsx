@@ -1,7 +1,8 @@
 import React,{useState} from "react";
 
-function Claims({rto}){
+function Claims({rto,companyReset}){
 const [value,setValue]=useState()
+const [show,setShow]=useState(false)
   
 
   function Calculate(){
@@ -14,6 +15,7 @@ const [value,setValue]=useState()
      
      console.log(sum)
      setValue(sum);
+     setShow(true)
      
 
   }
@@ -23,8 +25,23 @@ const [value,setValue]=useState()
     <button  value="YES" name="claims"  style={{ margin: 20 }}> Yes</button>
     <button  value="NO" name="claims"> No</button>
     <br/>
-    <button onClick={Calculate}>Calculate</button>
-    <label>{value}</label>
+    <button onClick={Calculate} style={{ margin: 20 }}>Calculate</button>
+    { show &&
+    <div className="box" style={{ margin: 20 }}>
+      <div>
+      <div>IDV</div>
+      <div style={{ color: 'blue' }}>{value}</div>
+      </div>
+      <div>
+      <div>Premium</div>
+      <div style={{ color:'blue' }}>{value}</div>
+      </div>
+      <div><button onClick={()=> companyReset()}>Calculate Again</button></div>
+      <div><button>View Plan</button></div>
+
+      
+    </div>
+}
     
   </div>);
   

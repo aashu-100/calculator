@@ -79,6 +79,7 @@ function App() {
     setRto("")
 
   }
+  //reset to fuel page
 
   function fuelReset(){
     setState(2)
@@ -87,6 +88,7 @@ function App() {
     setDateofreg("")
     setRto("")
   }
+  // reset to variant page
 
   function variantReset(){
  
@@ -95,6 +97,7 @@ function App() {
     setDateofreg("")
     setRto("")
   }
+  // reset to date of registration page
 
   function dateofregReset(){
 
@@ -102,6 +105,7 @@ function App() {
     setDateofreg("")
     setRto("")
   }
+  // reset to rto page
   function rtoReset(){
 
     setState(5)
@@ -124,18 +128,18 @@ function App() {
  }else if(state==5){
   jsx=<Rto dateofreg={dateofreg} claimsPage={claimsPage}/>
  }else if(state==6){
-  jsx=<Claims rto={rto}/>
+  jsx=<Claims rto={rto} companyReset={companyReset}/>
  }
 
   return(
     <>
    <div style={{ width: 500 }}><ul>
-    <button onClick={()=> companyReset()}>{brand}</button>
-    <button onClick={()=>modelReset()}>{modelname}</button>
-    <button onClick={()=>fuelReset()}>{fuel}</button>
-    <button onClick={()=> variantReset()}>{variant}</button>
-    <button onClick={()=> dateofregReset()}>{dateofreg}</button>
-    <button onClick={()=> rtoReset()}>{rto}</button>
+   {state>0 && <span> <button onClick={()=> companyReset()}>{brand}</button><span>&rarr;</span></span>}
+    {state>1 && <span> <button onClick={()=>modelReset()}>{modelname}</button><span>&rarr;</span></span>}
+   {state>2 && <span> <button onClick={()=>fuelReset()}>{fuel}</button><span>&rarr;</span></span>}
+   {state>3 && <span> <button onClick={()=> variantReset()}>{variant}</button><span>&rarr;</span></span>}
+    {state>4 && <span> <button onClick={()=> dateofregReset()}>{dateofreg}</button><span>&rarr;</span></span>}
+    {state>5 &&<button onClick={()=> rtoReset()}>{rto}</button>}
 
     </ul></div>
     {jsx}
