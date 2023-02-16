@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Models from './Models.json'
 
-function CarVariant({nextPage}) { 
+function CarVariant({fuel,datePage}) { 
     let id= 156
   const [value, setValue] = useState([]);
 
@@ -25,7 +25,9 @@ function CarVariant({nextPage}) {
 //   console.log(`${property}`);
 //   console.log(`${property.name}`)
 // }
-   
+   console.log(fuel)
+   const fueltype = Models.data[id].variants.filter((variant)=> variant.fuel_type === fuel )
+  //  console.log(fueltype)
   
   return (
     <main>
@@ -43,10 +45,12 @@ function CarVariant({nextPage}) {
             return post
            })()} */}
            {/* {Object.keys(Models.data).map((val)=><button>{Models.data[id]['name']}</button>)} */}
-           {Models.data[id].variants.map((val)=>
-            <button onClick={()=>nextPage()}>{val.name}</button>
-           )}
-          
+           {/* {Models.data[id].variants.map((val)=>
+            <button key={val.name}>{val.name}</button>
+           )} */}
+          {
+            fueltype.map((variant)=> <button key={variant.id} onClick={()=> datePage(variant['name'])}>{variant.name}</button>)
+          }
       </ul>
     </main>
   );

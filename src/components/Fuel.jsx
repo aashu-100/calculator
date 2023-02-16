@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 // import Models from './Models.json'
 
-function Fuel({modelname}) { 
+function Fuel({modelname,variantPage}) { 
   const [value, setValue] = useState([]);
 
   const fetchData = () => {
@@ -35,8 +35,8 @@ function Fuel({modelname}) {
             return post
            })()} */}
 
-           <button >Petrol</button>
-           <button >Diesel</button>
+           <button key="PETROL" onClick={()=>variantPage("PETROL")} >Petrol</button>
+           <button key="DIESEL" onClick={()=>variantPage("DIESEL")}>Diesel</button>
           
       </ul>
     </main>

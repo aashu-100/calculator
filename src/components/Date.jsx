@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 
-function Date({nextPage}) { 
+function Date({variant,rtoPage}) { 
   const [value, setValue] = useState([]);
 
   const fetchData = () => {
@@ -25,10 +25,10 @@ function Date({nextPage}) {
 //   console.log(`${property.name}`)
 // }
    
-  
+  console.log(variant)
   return (
     <main>
-      <h1>Date</h1>
+      <h1>When did you buy the car?</h1>
       <ul>
         {/* {value && value.length > 0 && value.map((userObj, index) => (
             <button key={userObj.id}>{userObj.title}</button>
@@ -37,7 +37,7 @@ function Date({nextPage}) {
            {(()=>{
             let post=[]
             for(let i=2008;i<=2023;i++){
-              post.push(<button onClick={()=>nextPage()}>{i}</button>)
+              post.push(<button key={i} onClick={()=>rtoPage(i)}>{i}</button>)
             }
             return post
            })()}

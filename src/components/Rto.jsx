@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Rtos from "./Rtos.json"
 
-function Rto({nextPage}) { 
+function Rto({dateofreg,claimsPage}) { 
   const [value, setValue] = useState([]);
 
 //   const fetchData = () => {
@@ -27,14 +27,14 @@ function Rto({nextPage}) {
 //   console.log(`${property}`);
 //   console.log(`${property.name}`)
 // }
-   
+   console.log(dateofreg)
   
   return (
     <main>
       <h1>RTO</h1>
       <ul>
         {value && value.length > 0 && value.map((userObj, index) => (
-            <button key={userObj.rto_code} onClick={()=>nextPage()}>{userObj.rto_code}</button>
+            <button key={userObj.rto_code} onClick={()=> claimsPage(userObj.rto_code)} >{userObj.rto_code}</button>
           ))} 
           
 

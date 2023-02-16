@@ -1,6 +1,6 @@
 import React,{useState} from "react";
 
-function Claims(){
+function Claims({rto}){
 const [value,setValue]=useState()
   
 
@@ -17,6 +17,7 @@ const [value,setValue]=useState()
      
 
   }
+  console.log(rto)
   return( <div >
     <h3>Do you file any claims in previous policy year?</h3>
     <button  value="YES" name="claims"  style={{ margin: 20 }}> Yes</button>
