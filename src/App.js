@@ -33,6 +33,7 @@ function App() {
   }
 // get data from model page to fuel page
   function fuelPage(data){
+    console.log("Model selected")
     setState(state+1)
     setModelName(data)
   }
