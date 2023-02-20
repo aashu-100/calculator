@@ -54,7 +54,7 @@ function CarVariant({fuel,datePage}) {
   
   return (
     <main>
-      <h1>Car Variant</h1>
+      <h3>what is your car variant?</h3>
       <ul>
         {/* {value && value.length > 0 && value.map((userObj, index) => (
             <button key={userObj.id}>{userObj.title}</button>
@@ -71,7 +71,7 @@ function CarVariant({fuel,datePage}) {
            {/* {Models.data[id].variants.map((val)=>
             <button key={val.name}>{val.name}</button>
            )} */}
-            <input autoComplete="true"  id="model-input" list="data" placeholder="Search" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
+            <input autoComplete="true"  id="model-input" list="data" placeholder="Search car variant" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
            {search||hit ? renderList(): null}
           {
             fueltype.map((variant)=> <button key={variant.id} onClick={()=> datePage(variant['name'])}>{variant.name}</button>)

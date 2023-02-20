@@ -28,12 +28,13 @@ function Company({modelPage}) {
 
   return (
     <main>
-      <h1>Car Brand</h1>
+      <h3>Which car do you drive?</h3>
       
         {/* {user && user.length > 0 && user.map((userObj, index) => (
           
             <button key={userObj.id}>{userObj.name}</button>
           ))} */}
+          <div><small>Popular brands --</small></div>
           <button onClick={()=> modelPage(data,name)} value="BMW">{name}</button>
       
     </main>

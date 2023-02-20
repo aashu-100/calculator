@@ -134,6 +134,7 @@ function App() {
 
   return(
     <>
+    <h1>Car Insurance Calculator</h1>
    <div style={{ width: 500 }}><ul>
    {state>0 && <span> <button onClick={()=> companyReset()}>{brand}</button><span>&rarr;</span></span>}
     {state>1 && <span> <button onClick={()=>modelReset()}>{modelname}</button><span>&rarr;</span></span>}

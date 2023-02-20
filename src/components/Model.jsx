@@ -59,7 +59,7 @@ function Model({fuelPage,carid,brandname}) {
 
   return (
     <main>
-      <h1>BMW Models</h1>
+      <h3>Which car do you drive?</h3>
       <ul>
         {/* {value && value.length > 0 && value.map((userObj, index) => (
             <button key={userObj.id}>{userObj.title}</button>
@@ -77,7 +77,7 @@ function Model({fuelPage,carid,brandname}) {
             }
             return post
            })()} */}
-           <input autoComplete="true"  id="model-input" list="data" placeholder="Search" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
+           <input autoComplete="true"   id="model-input" list="data" placeholder="Search car Model" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
            {search||hit ? renderList(): null}
            {/* <datalist id="data">
            

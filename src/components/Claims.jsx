@@ -21,6 +21,7 @@ const [show,setShow]=useState(false)
   }
   console.log(rto)
   return( <div >
+    <span>Just one more step</span>
     <h3>Do you file any claims in previous policy year?</h3>
     <button  value="YES" name="claims"  style={{ margin: 20 }}> Yes</button>
     <button  value="NO" name="claims"> No</button>

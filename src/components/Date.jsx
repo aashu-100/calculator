@@ -47,7 +47,7 @@ let scrollpost=[]
         width: "211px",
         }}>
         {console.log(search)}
-        {scrollpost.map((val)=> <div onClick={(()=>rtoPage(val))} key={val} className="list-item">{val}</div>)}
+        {scrollpost.map((val)=> val.toString().toLowerCase().includes(search.toString().toLowerCase()) ?<div onClick={(()=>rtoPage(val))} key={val} className="list-item">{val}</div> : null)}
        
 
         
@@ -66,7 +66,7 @@ let scrollpost=[]
             <button key={userObj.id}>{userObj.title}</button>
           ))} 
            */}
-           <input autoComplete="true"  id="model-input" list="data" placeholder="Search" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
+           <input autoComplete="true"  id="model-input" list="data" placeholder="Search year" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
            {search||hit ? renderList(): null}
            {(()=>{
             

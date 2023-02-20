@@ -18,7 +18,7 @@ function Rto({dateofreg,claimsPage}) {
   useEffect(() => {
     // fetchData()
     setValue(Rtos["data"])
-    document.getElementById('model-input').addEventListener('click', renderList );
+    document.getElementById('model-input-rto').addEventListener('click', renderList );
     
     
     
@@ -34,13 +34,13 @@ function Rto({dateofreg,claimsPage}) {
 
    const renderList = () =>{
     return(
-      <div className="list-container" style={{
+      <div className="list-container" key="list" style={{
         overflow: "scroll",
         height: "116px",
         width: "211px",
         }}>
         {console.log(search)}
-        {value.map((val)=> val['rto_code'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>claimsPage(val['rto_code']))} key={val['id']} className="list-item">{val.rto_code}</div>:null)}
+        {value.map((val)=> val['rto_code'].toLowerCase().includes(search.toLowerCase())||val['rto_name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>claimsPage(val['rto_code']))} key={val.id} className="list-item">{val.rto_code}&nbsp;({val.rto_name})</div>:null)}
       
       </div>
     )
@@ -48,11 +48,11 @@ function Rto({dateofreg,claimsPage}) {
  
   return (
     <main>
-      <h1>RTO</h1>
-      <input autoComplete="true"  id="model-input" list="data" placeholder="Search" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
+      <h3>Where is your registered?</h3>
+      <input autoComplete="true"  id="model-input-rto" list="data" placeholder="Search city or RTO" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
            {search||hit ? renderList(): null}
       <ul>
-        {value && value.length > 0 && value.map((userObj, index) => (
+        {value && value.length > 0 && value.slice(0,10).map((userObj, index) => (
             <button key={userObj.rto_code} onClick={()=> claimsPage(userObj.rto_code)} >{userObj.rto_code}</button>
           ))} 
           
@@ -66,6 +66,7 @@ function Rto({dateofreg,claimsPage}) {
            })()} */}
           
       </ul>
+      <div><a href="#model-input-rto">Can't find your RTO? Search for it</a></div>
     </main>
   );
   
