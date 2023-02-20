@@ -5,6 +5,7 @@ function Model({fuelPage,carid,brandname}) {
   const [value, setValue] = useState([]);
   const [search,setSearch]= useState('');
   const [hit,setHit]= useState(false);
+  
 
   const fetchData = () => {
     return fetch("https://dummyjson.com/products")
@@ -40,6 +41,7 @@ function Model({fuelPage,carid,brandname}) {
    console.log(carid)
    console.log(brandname)
   //  console.log(search)
+  
 
   const renderList = () =>{
     return(
@@ -54,7 +56,7 @@ function Model({fuelPage,carid,brandname}) {
       </div>
     )
     }
-    
+    //<div><small>No Results Found</small></div>
 
 
   return (
