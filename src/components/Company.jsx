@@ -7,12 +7,16 @@
  
 
 import React, { useEffect, useState } from "react";
+import Vehicles from './vehicle_make.json'
 
 
 function Company({modelPage}) { 
-  let data=30
-  let name="BMW"
+  // let data=30
+  // let name="BMW"
   const [user, setUser] = useState([]);
+  const [search,setSearch]= useState('');
+  const [hit,setHit]= useState(false);
+  
 
   const fetchData = () => {
     return fetch("https://jsonplaceholder.typicode.com/users")
@@ -22,7 +26,22 @@ function Company({modelPage}) {
 
   useEffect(() => {
     fetchData();
+    document.getElementById('model-input').addEventListener('click', renderList );
   },[])
+
+  const renderList = () =>{
+    return(
+      <div className="list-container" style={{
+        overflow: "scroll",
+        height: "116px",
+        width: "211px",
+        }}>
+        {console.log(search)}
+        {Vehicles['data'].map((val)=> val['name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>modelPage(val.id,val.name))} key={val['id']} className="list-item">{val.name}</div>:null)}
+      
+      </div>
+    )
+    }
 
  
 
@@ -34,8 +53,11 @@ function Company({modelPage}) {
           
             <button key={userObj.id}>{userObj.name}</button>
           ))} */}
+          <input autoComplete="true"   id="model-input" list="data" placeholder="Search Brand" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
+           {search||hit ? renderList(): null}
           <div><small>Popular brands --</small></div>
-          <button onClick={()=> modelPage(data,name)} value="BMW">{name}</button>
+          {Vehicles['data'].map((val)=> <button key={val.id} onClick={()=> modelPage(val.id,val.name)} value="BMW">{val.name}</button>)}
+         
       
     </main>
   );

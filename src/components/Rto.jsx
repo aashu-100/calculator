@@ -40,7 +40,7 @@ function Rto({dateofreg,claimsPage}) {
         width: "211px",
         }}>
         {console.log(search)}
-        {value.map((val)=> val['rto_code'].toLowerCase().includes(search.toLowerCase())||val['rto_name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>claimsPage(val['rto_code']))} key={val.id} className="list-item">{val.rto_code}&nbsp;({val.rto_name})</div>:null)}
+        {value.map((val)=> val['rto_code'].toLowerCase().includes(search.toLowerCase())||val['rto_name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>claimsPage(val['rto_code']))} key={val['id']} className="list-item">{val.rto_code}&nbsp;({val.rto_name})</div>:null)}
       
       </div>
     )
