@@ -8,9 +8,13 @@ function Model({fuelPage,id,brandname}) {
   
 
   const fetchData = () => {
-    return fetch(`http://0.0.0.0:8000/motor/fourwheeler/make/${id}/`)
+    return fetch(`http://0.0.0.0:8000/motor/fourwheeler/make/${id}/`,{
+      method: "GET",
+      
+      
+    })
           .then((response) => response.json())
-          .then((data) => setValue(data['products']));
+          .then((data) => setValue(data["data"]));
   }
 
  
@@ -49,7 +53,7 @@ function Model({fuelPage,id,brandname}) {
         width: "211px",
         }}>
         {console.log(search)}
-        {Object.keys(Models.data).map((val)=> Models.data[val]['name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>fuelPage(Models.data[val]['name'],Models.data[val]['id']))} key={Models.data[val]['id']} className="list-item">{Models.data[val]['name']}</div>:null)}
+        {Object.keys(value).map((val)=> value[val]['name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>fuelPage(value[val]['name'],value[val]['id']))} key={value[val]['id']} className="list-item">{value[val]['name']}</div>:null)}
       
       </div>
     )
@@ -84,7 +88,7 @@ function Model({fuelPage,id,brandname}) {
            {Object.keys(Models.data).map((val)=><option  key={Models.data[val]['id']} >{Models.data[val]['name']}</option>)}
           
            </datalist> */}
-           {Object.keys(Models.data).map((val)=><button key={Models.data[val]['id']} onClick={()=>fuelPage(Models.data[val]['name'],Models.data[val]['id'])}>{Models.data[val]['name']}</button>)}
+           {Object.keys(value).map((val)=><button key={value[val]['id']} onClick={()=>fuelPage(value[val]['name'],value[val]['id'])}>{value[val]['name']}</button>)}
           
       </ul>
     </main>

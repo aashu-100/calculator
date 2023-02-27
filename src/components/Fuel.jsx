@@ -1,17 +1,19 @@
 import React, { useEffect, useState } from "react";
  import Models from './Models.json'
 
-function Fuel({modelname,variantPage,modelId}) { 
+function Fuel({modelname,variantPage,modelId,id}) { 
   const [value, setValue] = useState([]);
   
-  let id = 156
+  // let id = 156
 
   const fetchData = () => {
-    return fetch("https://dummyjson.com/products/1")
+    return fetch(`http://0.0.0.0:8000/motor/fourwheeler/make/${id}/`,{
+      method: "GET",
+      
+      
+    })
           .then((response) => response.json())
-          .then((data) => {setValue(data)
-        // console.log(data)
-    });
+          .then((data) => setValue(data["data"][modelId]["variants"]));
   }
 
   useEffect(() => {
@@ -26,7 +28,7 @@ function Fuel({modelname,variantPage,modelId}) {
   
 // geting desired and distinct fuel type of selected model
 var available_fueltype = [];
- Models.data[modelId].variants.map((val)=> available_fueltype.push(val['fuel_type']))
+ value.map((val)=> available_fueltype.push(val['fuel_type']))
  available_fueltype= Array.from(new Set(available_fueltype))
 
 
@@ -34,7 +36,7 @@ console.log(available_fueltype)
 
 
   //example end
-
+  // data[156].variants[0].fuel_type
   
   return (
     <main>

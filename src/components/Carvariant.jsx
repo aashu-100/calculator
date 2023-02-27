@@ -1,19 +1,21 @@
 import React, { useEffect, useState } from "react";
 import Models from './Models.json'
 
-function CarVariant({fuel,datePage}) { 
-    let id= 156
+function CarVariant({fuel,datePage,modelId,id}) { 
+    
   const [value, setValue] = useState([]);
   const [search,setSearch]= useState('');
   const [hit,setHit]= useState(false);
 
 
   const fetchData = () => {
-    return fetch("https://dummyjson.com/products")
+    return fetch(`http://0.0.0.0:8000/motor/fourwheeler/make/${id}/`,{
+      method: "GET",
+      
+      
+    })
           .then((response) => response.json())
-          .then((data) => {setValue(data['products'])
-        
-    });
+          .then((data) => setValue(data["data"][modelId]["variants"]));
   }
 
  
@@ -31,7 +33,8 @@ function CarVariant({fuel,datePage}) {
 // }
    console.log(fuel)
 
-   const fueltype = Models.data[id].variants.filter((variant)=> variant.fuel_type === fuel )
+   const fueltype = value.filter((variant)=> variant.fuel_type === fuel )
+   
 
    const renderList = () =>{
     return(
