@@ -1,18 +1,16 @@
 import React, { useEffect, useState } from "react";
 import Models from './Models.json'
 
-function Model({fuelPage,carid,brandname}) { 
+function Model({fuelPage,id,brandname}) { 
   const [value, setValue] = useState([]);
   const [search,setSearch]= useState('');
   const [hit,setHit]= useState(false);
   
 
   const fetchData = () => {
-    return fetch("https://dummyjson.com/products")
+    return fetch(`http://0.0.0.0:8000/motor/fourwheeler/make/${id}/`)
           .then((response) => response.json())
-          .then((data) => {setValue(data['products'])
-        
-    });
+          .then((data) => setValue(data['products']));
   }
 
  
@@ -38,7 +36,7 @@ function Model({fuelPage,carid,brandname}) {
 //   console.log(`${property}`);
 //   console.log(`${property.name}`)
 // }
-   console.log(carid)
+   console.log(id)
    console.log(brandname)
   //  console.log(search)
   
@@ -51,7 +49,7 @@ function Model({fuelPage,carid,brandname}) {
         width: "211px",
         }}>
         {console.log(search)}
-        {Object.keys(Models.data).map((val)=> Models.data[val]['name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>fuelPage(Models.data[val]['name']))} key={Models.data[val]['id']} className="list-item">{Models.data[val]['name']}</div>:null)}
+        {Object.keys(Models.data).map((val)=> Models.data[val]['name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>fuelPage(Models.data[val]['name'],Models.data[val]['id']))} key={Models.data[val]['id']} className="list-item">{Models.data[val]['name']}</div>:null)}
       
       </div>
     )
@@ -86,7 +84,7 @@ function Model({fuelPage,carid,brandname}) {
            {Object.keys(Models.data).map((val)=><option  key={Models.data[val]['id']} >{Models.data[val]['name']}</option>)}
           
            </datalist> */}
-           {Object.keys(Models.data).map((val)=><button key={Models.data[val]['id']} onClick={()=>fuelPage(Models.data[val]['name'])}>{Models.data[val]['name']}</button>)}
+           {Object.keys(Models.data).map((val)=><button key={Models.data[val]['id']} onClick={()=>fuelPage(Models.data[val]['name'],Models.data[val]['id'])}>{Models.data[val]['name']}</button>)}
           
       </ul>
     </main>

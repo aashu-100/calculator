@@ -5,7 +5,7 @@ import Model from './components/Model'
 import Fuel from './components/Fuel'
 import Claims from './components/Claims'
 import CarVariant from './components/Carvariant';
-import Date from './components/Date'
+import RegDate from './components/RegDate'
 import Rto from './components/Rto'
 import React,{useState} from "react"
 
@@ -18,6 +18,7 @@ function App() {
   const[brand,setBrand]=useState("")
   
   const[modelname, setModelName]= useState("")
+  const[modelId,setmodelId]= useState(null)
 
   const[fuel,setFuel]=useState("")
   const[variant,setVariant]= useState("")
@@ -32,10 +33,11 @@ function App() {
     setBrand(name)
   }
 // get data from model page to fuel page
-  function fuelPage(data){
+  function fuelPage(name,id){
     console.log("Model selected")
     setState(state+1)
-    setModelName(data)
+    setModelName(name)
+    setmodelId(id)
   }
 // get data from fuel page to carvariant page
   function variantPage(data){
@@ -78,6 +80,7 @@ function App() {
     setVariant("")
     setDateofreg("")
     setRto("")
+    setmodelId(null)
 
   }
   //reset to fuel page
@@ -119,13 +122,13 @@ function App() {
  if(state==0){
   jsx= <Company modelPage={modelPage}/>
  }else if(state==1){
-  jsx= <Model  carid={id} brandname={brand} fuelPage={fuelPage}/>
+  jsx= <Model  id={id} brandname={brand} fuelPage={fuelPage}/>
  }else if(state==2){
-  jsx= <Fuel modelname={modelname} variantPage={variantPage} />
+  jsx= <Fuel id={id} modelId={modelId} modelname={modelname} variantPage={variantPage} />
  }else if(state==3){
-  jsx=<CarVariant  fuel={fuel} datePage={datePage}/>
+  jsx=<CarVariant id={id} modelId={modelId}  fuel={fuel} datePage={datePage}/>
  }else if(state==4){
-  jsx=<Date  variant={variant} rtoPage={rtoPage}/>
+  jsx=<RegDate  variant={variant} rtoPage={rtoPage}/>
  }else if(state==5){
   jsx=<Rto dateofreg={dateofreg} claimsPage={claimsPage}/>
  }else if(state==6){

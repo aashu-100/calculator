@@ -6,18 +6,18 @@ function Rto({dateofreg,claimsPage}) {
   const [search,setSearch]= useState('');
   const [hit,setHit]= useState(false);
 
-//   const fetchData = () => {
-//     return fetch("https://dummyjson.com/products")
-//           .then((response) => response.json())
-//           .then((data) => {setValue(data['products'])
+  const fetchData = () => {
+    return fetch("http://0.0.0.0:8000/motor/fourwheeler/api/rtos/")
+          .then((response) => response.json())
+          .then((data) => {setValue(data['data'])
         
-//     });
-//   }
+    });
+  }
 
 
   useEffect(() => {
-    // fetchData()
-    setValue(Rtos["data"])
+    fetchData()
+    // setValue(Rtos["data"])
     document.getElementById('model-input-rto').addEventListener('click', renderList );
     
     
