@@ -22,6 +22,7 @@ function App() {
 
   const[fuel,setFuel]=useState("")
   const[variant,setVariant]= useState("")
+  const[variantid,setVariantid]= useState(0)
   const[dateofreg,setDateofreg]= useState("")
   const[rto,setRto]=useState("")
 
@@ -46,9 +47,10 @@ function App() {
   }
 
   // variant page to date page
-  function datePage(data){
+  function datePage(name,varid){
     setState(state+1)
-    setVariant(data)
+    setVariant(name)
+    setVariantid(varid)
     
   }
   //date page to rto page
@@ -100,6 +102,7 @@ function App() {
     setVariant("")
     setDateofreg("")
     setRto("")
+    setVariantid(null)
   }
   // reset to date of registration page
 
@@ -128,11 +131,11 @@ function App() {
  }else if(state==3){
   jsx=<CarVariant id={id} modelId={modelId}  fuel={fuel} datePage={datePage}/>
  }else if(state==4){
-  jsx=<RegDate  variant={variant} rtoPage={rtoPage}/>
+  jsx=<RegDate variantid={variantid} variant={variant} rtoPage={rtoPage}/>
  }else if(state==5){
   jsx=<Rto dateofreg={dateofreg} claimsPage={claimsPage}/>
  }else if(state==6){
-  jsx=<Claims rto={rto} companyReset={companyReset}/>
+  jsx=<Claims rto={rto} variantid={variantid} dateofreg={dateofreg} companyReset={companyReset}/>
  }
 
   return(

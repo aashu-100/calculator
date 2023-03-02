@@ -44,7 +44,7 @@ function CarVariant({fuel,datePage,modelId,id}) {
         width: "211px",
         }}>
         {console.log(search)}
-        {fueltype.map((val)=> val['name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>datePage(val['name']))} key={val['id']} className="list-item">{val.name}</div>:null)}
+        {fueltype.map((val)=> val['name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>datePage(val['name'],val['id']))} key={val['id']} className="list-item">{val.name}</div>:null)}
       
       </div>
     )
@@ -77,7 +77,7 @@ function CarVariant({fuel,datePage,modelId,id}) {
             <input autoComplete="true"  id="model-input" list="data" placeholder="Search car variant" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
            {search||hit ? renderList(): null}
           {
-            fueltype.map((variant)=> <button key={variant.id} onClick={()=> datePage(variant['name'])}>{variant.name}</button>)
+            fueltype.map((variant)=> <button key={variant.id} onClick={()=> datePage(variant['name'],variant.id)}>{variant.name}</button>)
           }
       </ul>
     </main>

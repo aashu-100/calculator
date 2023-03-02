@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 
 
 
-function RegDate({variant,rtoPage}) { 
+function RegDate({variant,rtoPage,variantid}) { 
   const [value, setValue] = useState([]);
   const [search,setSearch]= useState(0);
   const [hit,setHit]= useState(false);
@@ -39,6 +39,7 @@ function RegDate({variant,rtoPage}) {
 let scrollpost=[]
    
   console.log(variant)
+  console.log(variantid)
   // console.log(currentYear)
 
   for(let i= currentYear-15;i<=currentYear;i++){
