@@ -39,17 +39,18 @@ if(user){
 
 console.log(dateofreg)
 //handling depreciation rate according to year of registration
+const currentYear = new Date().getFullYear()
 let depreciation=0
-if(dateofreg==2023){
+if(dateofreg==currentYear){
   depreciation=0
 }
-else if(dateofreg==2022){
+else if(dateofreg==currentYear-1){
    depreciation= 15/100
-}else if(dateofreg ==2021){
+}else if(dateofreg ==currentYear-2){
   depreciation=20/100
-}else if(dateofreg==2020){
+}else if(dateofreg==currentYear-3){
   depreciation =30/100
-}else if(dateofreg==2019){
+}else if(dateofreg==currentYear-4){
   depreciation=40/100
 }else{
   depreciation=50/100
