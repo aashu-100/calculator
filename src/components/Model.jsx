@@ -47,13 +47,9 @@ function Model({fuelPage,id,brandname}) {
 
   const renderList = () =>{
     return(
-      <div className="list-container" style={{
-        overflow: "scroll",
-        height: "116px",
-        width: "211px",
-        }}>
+      <div class="rectangle-drop">
         {console.log(search)}
-        {Object.keys(value).map((val)=> value[val]['name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>fuelPage(value[val]['name'],value[val]['id']))} key={value[val]['id']} className="list-item">{value[val]['name']}</div>:null)}
+        {Object.keys(value).map((val)=> value[val]['name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>fuelPage(value[val]['name'],value[val]['id']))} key={value[val]['id']} class="rectangle-drop-btn">{value[val]['name']}</div>:null)}
       
       </div>
     )
@@ -63,7 +59,7 @@ function Model({fuelPage,id,brandname}) {
 
   return (
     <main>
-      <h3>Which car do you drive?</h3>
+      <h4 class=" text-center">Which car do you drive?</h4>
       <ul>
         {/* {value && value.length > 0 && value.map((userObj, index) => (
             <button key={userObj.id}>{userObj.title}</button>
@@ -81,14 +77,17 @@ function Model({fuelPage,id,brandname}) {
             }
             return post
            })()} */}
-           <input autoComplete="true"   id="model-input" list="data" placeholder="Search car Model" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
+            <div class=" row justify-content-center">
+           <input autoComplete="true"  class="input-box"  id="model-input" list="data" placeholder="Search car Model" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
            {search||hit ? renderList(): null}
            {/* <datalist id="data">
            
            {Object.keys(Models.data).map((val)=><option  key={Models.data[val]['id']} >{Models.data[val]['name']}</option>)}
           
            </datalist> */}
-           {Object.keys(value).map((val)=><button key={value[val]['id']} onClick={()=>fuelPage(value[val]['name'],value[val]['id'])}>{value[val]['name']}</button>)}
+           </div>
+           <br/>
+           {Object.keys(value).map((val)=><button  class="select-btn" key={value[val]['id']} onClick={()=>fuelPage(value[val]['name'],value[val]['id'])}>{value[val]['name']}</button>)}
           
       </ul>
     </main>

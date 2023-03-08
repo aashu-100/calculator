@@ -40,7 +40,7 @@ console.log(available_fueltype)
   
   return (
     <main>
-      <h3>Select the fuel type</h3>
+      <h4 class=" text-center">Select the fuel type</h4>
       <ul>
         {/* {value && value.length > 0 && value.map((userObj, index) => (
             <button key={userObj.id}>{userObj.title}</button>
@@ -53,7 +53,10 @@ console.log(available_fueltype)
             }
             return post
            })()} */}
-           {available_fueltype.map((val)=> <button key={val} onClick={()=>variantPage(val)} >{val}</button>)}
+           
+            
+           {available_fueltype.map((val)=><div class="row justify-content-center"> <button class="select-fuel-btn" key={val} onClick={()=>variantPage(val)} >{val}</button></div>)}
+           
 
            {/* <button key="PETROL" onClick={()=>variantPage("PETROL")} >Petrol</button>
            <button key="DIESEL" onClick={()=>variantPage("DIESEL")}>Diesel</button>

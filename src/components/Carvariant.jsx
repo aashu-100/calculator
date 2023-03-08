@@ -38,13 +38,9 @@ function CarVariant({fuel,datePage,modelId,id}) {
 
    const renderList = () =>{
     return(
-      <div className="list-container" style={{
-        overflow: "scroll",
-        height: "116px",
-        width: "211px",
-        }}>
+      <div class="rectangle-drop" >
         {console.log(search)}
-        {fueltype.map((val)=> val['name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>datePage(val['name'],val['id']))} key={val['id']} className="list-item">{val.name}</div>:null)}
+        {fueltype.map((val)=> val['name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>datePage(val['name'],val['id']))} key={val['id']} class="rectangle-drop-btn">{val.name}</div>:null)}
       
       </div>
     )
@@ -57,7 +53,7 @@ function CarVariant({fuel,datePage,modelId,id}) {
   
   return (
     <main>
-      <h3>what is your car variant?</h3>
+      <h4 class=" text-center">what is your car variant?</h4>
       <ul>
         {/* {value && value.length > 0 && value.map((userObj, index) => (
             <button key={userObj.id}>{userObj.title}</button>
@@ -74,10 +70,13 @@ function CarVariant({fuel,datePage,modelId,id}) {
            {/* {Models.data[id].variants.map((val)=>
             <button key={val.name}>{val.name}</button>
            )} */}
-            <input autoComplete="true"  id="model-input" list="data" placeholder="Search car variant" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
+            <div class=" row justify-content-center">
+            <input autoComplete="true" class="input-box" id="model-input" list="data" placeholder="Search car variant" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
            {search||hit ? renderList(): null}
+           </div>
+           <br/>
           {
-            fueltype.map((variant)=> <button key={variant.id} onClick={()=> datePage(variant['name'],variant.id)}>{variant.name}</button>)
+            fueltype.map((variant)=> <button class="select-btn" key={variant.id} onClick={()=> datePage(variant['name'],variant.id)}>{variant.name}</button>)
           }
       </ul>
     </main>

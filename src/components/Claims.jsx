@@ -90,12 +90,14 @@ else if(dateofreg==currentYear-1){
   }
   console.log(rto)
   return( <div >
-    <span>Just one more step</span>
-    <h3>Do you file any claims in previous policy year?</h3>
-    <button  value="YES" name="claims"  style={{ margin: 20 }}> Yes</button>
-    <button  value="NO" name="claims"> No</button>
+    
+    <h4 class=" text-center">Do you file any claims in previous policy year?</h4>
+    <div class="row justify-content-center">
+    <button class="select-btn" value="YES" name="claims" onClick={Calculate}> Yes</button>
+    <button class="select-btn" value="NO" name="claims" onClick={Calculate}> No</button>
+    </div>
     <br/>
-    <button onClick={Calculate} style={{ margin: 20 }}>Calculate</button>
+    
     { show &&
     <div className="box" style={{ margin: 20 }}>
       <div>

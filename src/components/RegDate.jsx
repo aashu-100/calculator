@@ -49,13 +49,9 @@ let scrollpost=[]
   
   const renderList = () =>{
     return(
-      <div className="list-container" style={{
-        overflow: "scroll",
-        height: "116px",
-        width: "211px",
-        }}>
+      <div class="rectangle-drop">
         {console.log(search)}
-        {scrollpost.map((val)=> val.toString().toLowerCase().includes(search.toString().toLowerCase()) ?<div onClick={(()=>rtoPage(val))} key={val} className="list-item">{val}</div> : null)}
+        {scrollpost.map((val)=> val.toString().toLowerCase().includes(search.toString().toLowerCase()) ?<div onClick={(()=>rtoPage(val))} key={val} class="rectangle-drop-btn">{val}</div> : null)}
        
 
         
@@ -68,18 +64,21 @@ let scrollpost=[]
 
   return (
     <main>
-      <h1>When did you buy the car?</h1>
+      <h4 class=" text-center">When did you buy the car?</h4>
       <ul>
         {/* {value && value.length > 0 && value.map((userObj, index) => (
             <button key={userObj.id}>{userObj.title}</button>
           ))} 
            */}
-           <input autoComplete="true"  id="model-input" list="data" placeholder="Search year" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
+            <div class=" row justify-content-center">
+           <input autoComplete="true" class="input-box"  id="model-input" list="data" placeholder="Search year" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
            {search||hit ? renderList(): null}
+           </div>
+           <br/>
            {(()=>{
             
             for(let i=2008;i<=2023;i++){
-              post.push(<button key={i} onClick={()=>rtoPage(i)}>{i}</button>)
+              post.push(<button class="select-btn" key={i} onClick={()=>rtoPage(i)}>{i}</button>)
             }
             return post
            })()}

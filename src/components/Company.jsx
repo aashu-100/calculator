@@ -7,7 +7,7 @@
  
 
 import React, { useEffect, useState } from "react";
-import Vehicles from './vehicle_make.json'
+// import Vehicles from './vehicle_make.json'
 
 
 function Company({modelPage}) { 
@@ -24,6 +24,10 @@ function Company({modelPage}) {
   .then((data) => {setComp(data["data"])});
   }
 
+  const popular = comp.filter(
+    (company) => company.is_popular==true
+  );
+
   useEffect(() => {
      fetchData();
     document.getElementById('model-input').addEventListener('click', renderList );
@@ -31,13 +35,9 @@ function Company({modelPage}) {
 
   const renderList = () =>{
     return(
-      <div className="list-container" style={{
-        overflow: "scroll",
-        height: "116px",
-        width: "211px",
-        }}>
+      <div class="rectangle-drop" >
         {console.log(search)}
-        {comp.map((val)=> val['name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>modelPage(val.id,val.name))} key={val['id']} className="list-item">{val.name}</div>:null)}
+        {comp.map((val)=> val['name'].toLowerCase().includes(search.toLowerCase()) ? <div class="rectangle-drop-btn" onClick={(()=>modelPage(val.id,val.name))} key={val['id']} >{val.name}</div>:null)}
       
       </div>
     )
@@ -46,17 +46,21 @@ function Company({modelPage}) {
  
 
   return (
-    <main>
-      <h3>Which car do you drive?</h3>
+    <main >
+      <h4 class=" text-center">Which car do you drive?</h4>
       
         {/* {user && user.length > 0 && user.map((userObj, index) => (
           
             <button key={userObj.id}>{userObj.name}</button>
           ))} */}
-          <input autoComplete="true"   id="model-input" list="data" placeholder="Search Brand" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
+          <div class=" row justify-content-center">
+          <input autoComplete="true" class="input-box"  id="model-input" list="data" placeholder="Search Brand" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
            {search||hit ? renderList(): null}
           <div><small>Popular brands --</small></div>
-          {comp.map((val)=> <button key={val.id} onClick={()=> modelPage(val.id,val.name)} >{val.name}</button>)}
+          </div>
+          <div >
+          {popular.map((val)=> <button  key={val.id} onClick={()=> modelPage(val.id,val.name)} >{val.name}</button>)}
+          </div>
          
       
     </main>

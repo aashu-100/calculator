@@ -34,13 +34,9 @@ function Rto({dateofreg,claimsPage}) {
 
    const renderList = () =>{
     return(
-      <div className="list-container" key="list" style={{
-        overflow: "scroll",
-        height: "116px",
-        width: "211px",
-        }}>
+      <div class="rectangle-drop" key="list" >
         {console.log(search)}
-        {value.map((val)=> val['rto_code'].toLowerCase().includes(search.toLowerCase())||val['rto_name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>claimsPage(val['rto_code']))} key={val['id']} className="list-item">{val.rto_code}&nbsp;({val.rto_name})</div>:null)}
+        {value.map((val)=> val['rto_code'].toLowerCase().includes(search.toLowerCase())||val['rto_name'].toLowerCase().includes(search.toLowerCase()) ? <div onClick={(()=>claimsPage(val['rto_code']))} key={val['id']} class="rectangle-drop-btn">{val.rto_code}&nbsp;({val.rto_name})</div>:null)}
       
       </div>
     )
@@ -48,12 +44,15 @@ function Rto({dateofreg,claimsPage}) {
  
   return (
     <main>
-      <h3>Where is your registered?</h3>
-      <input autoComplete="true"  id="model-input-rto" list="data" placeholder="Search city or RTO" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
+      <h4 class=" text-center">Where is your registered?</h4>
+      <div class=" row justify-content-center">
+      <input autoComplete="true"  class="input-box" id="model-input-rto" list="data" placeholder="Search city or RTO" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
            {search||hit ? renderList(): null}
+           </div>
+           <br/>
       <ul>
         {value && value.length > 0 && value.slice(0,10).map((userObj, index) => (
-            <button key={userObj.rto_code} onClick={()=> claimsPage(userObj.rto_code)} >{userObj.rto_code}</button>
+            <button class="select-btn" key={userObj.rto_code} onClick={()=> claimsPage(userObj.rto_code)} >{userObj.rto_code}</button>
           ))} 
           
 

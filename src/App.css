@@ -36,3 +36,92 @@
     transform: rotate(360deg);
   }
 }
+
+.what-is-your-cars-b {
+  height: 24px;
+  width: 215px;
+  color: rgba(3,3,3,0.8);
+  
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+.rectangle {
+  height: 299px;
+  width: 356px;
+  border-radius: 16px;
+  background-color: rgba(107,122,254,0.1);
+}
+.rectangle-2 {
+  height: 32px;
+  width: auto;
+  border-radius: 16px;
+  background-color: rgba(107,122,254,0.1);
+  border: none;
+  font-family: Nunito;
+  padding-left: 14px;
+  padding-right: 14px;
+}
+.sigma-1-2 {
+  height: 18px;
+  width: 56px;
+  color: #314451;
+  font-family: Nunito;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-align: center;
+}
+.input-box {
+  box-sizing: border-box;
+  height: 40px;
+  width: 429px;
+  border: 1px solid rgba(3,3,3,0.12);
+  border-radius: 4px;
+  background-color: #F6F7FD;
+  margin-bottom: 10px;
+}
+.rectangle-drop {
+  height: 231px;
+  width: 429px;
+  overflow-y: scroll;
+  position: absolute;
+  z-index: 10;
+   margin-top: 41px;
+  border-radius: 8px;
+  background-color: #FFFFFF;
+  box-shadow: 0 1px 18px 3px rgba(0,0,0,0.08);
+}
+.select-btn {
+  box-sizing: content-box;
+  height: 50px;
+  width: 151.47px;
+  border: 1px solid rgba(3,3,3,0.12);
+  border-radius: 4px;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 8px 0 rgba(0,0,0,0.04);
+}
+.select-fuel-btn {
+  box-sizing: border-box;
+  height: 50px;
+  width: 412px;
+  border: 1px solid rgba(3,3,3,0.12);
+  border-radius: 4px;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 8px 0 rgba(0,0,0,0.04);
+}
+.rectangle-drop-btn {
+  height: 43px;
+  width: 400px;
+  border-radius: 4px;
+  background-color: #FFFFFF;
+  padding-left: 12px;
+}
+.rectangle-drop-btn:hover {
+  height: 43px;
+  width: auto;
+  border-radius: 4px;
+  background-color: rgba(107,122,254,0.1);
+}

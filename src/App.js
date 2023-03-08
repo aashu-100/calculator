@@ -140,17 +140,29 @@ function App() {
 
   return(
     <>
-    <h1>Car Insurance Calculator</h1>
-   <div style={{ width: 500 }}><ul>
-   {state>0 && <span> <button onClick={()=> companyReset()}>{brand}</button><span>&rarr;</span></span>}
-    {state>1 && <span> <button onClick={()=>modelReset()}>{modelname}</button><span>&rarr;</span></span>}
-   {state>2 && <span> <button onClick={()=>fuelReset()}>{fuel}</button><span>&rarr;</span></span>}
-   {state>3 && <span> <button onClick={()=> variantReset()}>{variant}</button><span>&rarr;</span></span>}
-    {state>4 && <span> <button onClick={()=> dateofregReset()}>{dateofreg}</button><span>&rarr;</span></span>}
-    {state>5 &&<button onClick={()=> rtoReset()}>{rto}</button>}
+     <div class="container rectangle-copy mt-5">
+    <h2 className='text-center my-4 '>Car Insurance Calculator</h2>
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+    <ul>
+   {state>0 && <span> <button class="rectangle-2"onClick={()=> companyReset()}><span class="sigma-1-2 ">{brand}</span></button></span>}
+    {state>1 && <span> <button class="rectangle-2" onClick={()=>modelReset()}><span class="sigma-1-2 ">{modelname}</span></button></span>}
+   {state>2 && <span> <button class="rectangle-2" onClick={()=>fuelReset()}><span class="sigma-1-2 ">{fuel}</span></button></span>}
+   {state>3 && <span> <button class="rectangle-2" onClick={()=> variantReset()}><span class="sigma-1-2 ">{variant}</span></button></span>}
+    {state>4 && <span> <button class="rectangle-2" onClick={()=> dateofregReset()}><span class="sigma-1-2 ">{dateofreg}</span></button></span>}
+    {state>5 &&<span><button class="rectangle-2" onClick={()=> rtoReset()}><span class="sigma-1-2 ">{rto}</span></button></span>}
 
-    </ul></div>
+    </ul>
+    </div>
+    </div>
+  
+    <div class="row justify-content-center">
+      <div class="col-md-10 ">
     {jsx}
+    </div>
+    
+    </div>
+    </div>
    </>
   )
   
