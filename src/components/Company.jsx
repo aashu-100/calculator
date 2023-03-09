@@ -6,7 +6,7 @@
 // https://www.coverfox.com/motor/fourwheeler/api/vehicle-make/
  
 
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState,useRef } from "react";
 // import Vehicles from './vehicle_make.json'
 
 
@@ -17,6 +17,7 @@ function Company({modelPage}) {
   const [search,setSearch]= useState('');
   const [hit,setHit]= useState(false);
   
+  const refOne= useRef(null)//closing drop down when clicked outside
 
   const fetchData = () => {
     return fetch("http://0.0.0.0:8000/motor/fourwheeler/api/vehicle-make/")
@@ -30,7 +31,21 @@ function Company({modelPage}) {
 
   useEffect(() => {
      fetchData();
+// drop down closing function
+     const closeDropDown =(e)=>{
+      if(!refOne.current.contains(e.target)){
+        setHit(false)
+      setSearch('')
+
+      }
+      
+     }
+   
+    document.body.addEventListener('click',closeDropDown);
     document.getElementById('model-input').addEventListener('click', renderList );
+    return ()=>{
+      document.body.removeEventListener('click',closeDropDown);
+    }
   },[])
 
   const renderList = () =>{
@@ -54,9 +69,9 @@ function Company({modelPage}) {
             <button key={userObj.id}>{userObj.name}</button>
           ))} */}
           <div class=" row justify-content-center">
-          <input autoComplete="true" class="input-box"  id="model-input" list="data" placeholder="Search Brand" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
+          <input autoComplete="true" ref={refOne} class="input-box"  id="model-input" list="data" placeholder="Search Brand" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
            {search||hit ? renderList(): null}
-          <div><small>Popular brands --</small></div>
+          <div class=" top-brands"><small>TOP BRANDS</small></div>
           </div>
           <div >
           {popular.map((val)=> <button  key={val.id} onClick={()=> modelPage(val.id,val.name)} >{val.name}</button>)}

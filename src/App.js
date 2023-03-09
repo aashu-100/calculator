@@ -143,7 +143,7 @@ function App() {
      <div class="container rectangle-copy mt-5">
     <h2 className='text-center my-4 '>Car Insurance Calculator</h2>
     <div class="row justify-content-center">
-      <div class="col-md-8">
+      <div class="col-md-8 ms-5 ">
     <ul>
    {state>0 && <span> <button class="rectangle-2"onClick={()=> companyReset()}><span class="sigma-1-2 ">{brand}</span></button></span>}
     {state>1 && <span> <button class="rectangle-2" onClick={()=>modelReset()}><span class="sigma-1-2 ">{modelname}</span></button></span>}
@@ -157,7 +157,7 @@ function App() {
     </div>
   
     <div class="row justify-content-center">
-      <div class="col-md-10 ">
+      <div class="col-md-10 box">
     {jsx}
     </div>
     

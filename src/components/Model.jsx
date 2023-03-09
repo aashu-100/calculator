@@ -80,6 +80,7 @@ function Model({fuelPage,id,brandname}) {
             <div class=" row justify-content-center">
            <input autoComplete="true"  class="input-box"  id="model-input" list="data" placeholder="Search car Model" onChange={(e)=>setSearch(e.target.value)} onClick={()=>setHit(true)}/>
            {search||hit ? renderList(): null}
+           <div class=" top-brands"><small>TOP CARS</small></div>
            {/* <datalist id="data">
            
            {Object.keys(Models.data).map((val)=><option  key={Models.data[val]['id']} >{Models.data[val]['name']}</option>)}
@@ -87,7 +88,7 @@ function Model({fuelPage,id,brandname}) {
            </datalist> */}
            </div>
            <br/>
-           {Object.keys(value).map((val)=><button  class="select-btn" key={value[val]['id']} onClick={()=>fuelPage(value[val]['name'],value[val]['id'])}>{value[val]['name']}</button>)}
+           {Object.keys(value).filter( (company) => value[company]['is_popular']==true).map((val)=><button  class="select-btn" key={value[val]['id']} onClick={()=>fuelPage(value[val]['name'],value[val]['id'])}>{value[val]['name']}</button>)}
           
       </ul>
     </main>

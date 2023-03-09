@@ -78,12 +78,12 @@ else if(dateofreg==currentYear-1){
      finalpremium= finalpremium+third_party_premium
      console.log(finalpremium)
      let sum=IDV
-     console.log(sum)
+     console.log(Math.round(sum))
      console.log(variantid)
 
      //setting and displaying premium and IDV
-     setIdv(sum);
-     setPremium(finalpremium)
+     setIdv(Math.round(sum));
+     setPremium(Math.round(finalpremium))
      setShow(true)
     }
 
@@ -99,17 +99,20 @@ else if(dateofreg==currentYear-1){
     <br/>
     
     { show &&
-    <div className="box" style={{ margin: 20 }}>
-      <div>
+    <div class="row result-box " >
+      <div class="col-md-3 mt-md-4 px-5 ">
       <div>IDV</div>
-      <div style={{ color: 'blue' }}>{idv}</div>
+      <div class="idv-premium">{idv}</div>
       </div>
-      <div>
+      <div class="col-md-3 mt-md-4 ">
       <div>Premium</div>
-      <div style={{ color:'blue' }}>{premium}</div>
+      <div class="idv-premium">{premium}</div>
       </div>
-      <div><button onClick={()=> companyReset()}>Calculate Again</button></div>
-      <div><button>View Plan</button></div>
+      
+      <div class="col-md-6 mt-md-4 mx-auto ">
+        <button class="calculate-again mx-5 "onClick={()=> companyReset()}>Calculate Again</button>
+      <button class="view-plan-btn ">View Plan</button></div>
+      
 
       
     </div>

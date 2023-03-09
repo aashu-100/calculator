@@ -54,20 +54,22 @@
   background-color: rgba(107,122,254,0.1);
 }
 .rectangle-2 {
-  height: 32px;
+  height: 42px;
   width: auto;
-  border-radius: 16px;
-  background-color: rgba(107,122,254,0.1);
   border: none;
-  font-family: Nunito;
-  padding-left: 14px;
-  padding-right: 14px;
+ 
+  border-radius: 21px;
+  background-color: rgba(107,122,254,0.1);
+  
+  padding-left: 20px;
+  padding-right: 20px;
+  margin:auto;
 }
 .sigma-1-2 {
   height: 18px;
   width: 56px;
   color: #314451;
-  font-family: Nunito;
+  
   font-size: 12px;
   font-weight: 500;
   letter-spacing: 0;
@@ -80,7 +82,7 @@
   width: 429px;
   border: 1px solid rgba(3,3,3,0.12);
   border-radius: 4px;
-  background-color: #F6F7FD;
+  background-color: #FFFFFF;
   margin-bottom: 10px;
 }
 .rectangle-drop {
@@ -96,12 +98,22 @@
 }
 .select-btn {
   box-sizing: content-box;
-  height: 50px;
-  width: 151.47px;
+  height: auto;
+  width: auto;
   border: 1px solid rgba(3,3,3,0.12);
   border-radius: 4px;
   background-color: #FFFFFF;
-  box-shadow: 0 0 8px 0 rgba(0,0,0,0.04);
+  box-shadow: 0 0 8px 0 rgb(0 0 0 / 4%);
+  margin-left: 16px;
+  margin-bottom: 15px;
+  padding-left: 30px;
+  padding-right: 31px;
+  padding-top: 13px;
+  padding-bottom: 14px;
+}
+.select-btn:hover{
+  border-color:rgb(106, 44, 206);
+
 }
 .select-fuel-btn {
   box-sizing: border-box;
@@ -111,6 +123,10 @@
   border-radius: 4px;
   background-color: #FFFFFF;
   box-shadow: 0 0 8px 0 rgba(0,0,0,0.04);
+  margin-bottom: 16px;
+}
+.select-fuel-btn:hover{
+  border-color:rgb(106, 44, 206);
 }
 .rectangle-drop-btn {
   height: 43px;
@@ -125,3 +141,77 @@
   border-radius: 4px;
   background-color: rgba(107,122,254,0.1);
 }
+.result-box {
+  
+    height: 120px;
+    width: auto;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 18px 3px rgba(0,0,0,0.08);
+  
+}
+.view-plan-btn {
+  
+  color: #FFFFFF;
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: -0.21px;
+  line-height: 22px;
+  text-align: center;
+  height: 48px;
+  width: 160px;
+  border-radius: 4px;
+  background-color: #6B7AFE;
+}
+.calculate-again {
+  
+    box-sizing: border-box;
+    height: 48px;
+    width: 160px;
+    border: 1px solid rgba(107,122,254,0.4);
+    border-radius: 4px;
+    background-color: #FFFFFF;
+  color: #6B7AFE;
+  font-family: Nunito;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: -0.21px;
+  line-height: 22px;
+  text-align: center;
+  
+}
+.idv-premium{
+  
+    height: 32px;
+    width: 85px;
+    color: rgba(3,3,3,0.7);
+    font-family: Nunito;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  h4{
+    padding-top: 11px;
+    padding-bottom: 10px;
+  }
+  .top-brands {
+    
+    color: rgba(3,3,3,0.8);
+    font-family: Nunito;
+    font-size: 16px;
+    letter-spacing: 0.8px;
+    line-height: 13px;
+    text-align: center;
+  }
+  .box{
+
+  
+  height: auto;
+  width: 994px;
+  border-radius: 8px;
+  background-color: rgba(231,234,238,0.43);
+  padding-bottom: 20px;
+}
+
