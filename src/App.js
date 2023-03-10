@@ -7,6 +7,7 @@ import Claims from './components/Claims'
 import CarVariant from './components/Carvariant';
 import RegDate from './components/RegDate'
 import Rto from './components/Rto'
+import Result from './components/Result'
 import React,{useState} from "react"
 
 
@@ -25,6 +26,9 @@ function App() {
   const[variantid,setVariantid]= useState(0)
   const[dateofreg,setDateofreg]= useState("")
   const[rto,setRto]=useState("")
+  const[claimed,setClaimed]= useState("")
+  const[IDV,setIDV]= useState("")
+  const[PREMIUM,setPREMIUM]= useState("")
 
 // get data from company page and passing to model page
   function modelPage(data,name){
@@ -62,6 +66,14 @@ function App() {
   function claimsPage(data){
     setState(state+1)
     setRto(data)
+  }
+  // claims page to result page
+  function resultPage(name,idv,premium){
+    setState(state+1)
+    setClaimed(name)
+    setIDV(idv)
+    setPREMIUM(premium)
+    
   }
   //reset to company page
   function companyReset(){
@@ -117,6 +129,13 @@ function App() {
 
     setState(5)
     setRto("")
+    setClaimed("")
+  }
+  // reset to claim page
+  function claimReset(){
+    setState(6)
+    setClaimed("")
+
   }
 
   // switching component logic 
@@ -135,7 +154,9 @@ function App() {
  }else if(state==5){
   jsx=<Rto dateofreg={dateofreg} claimsPage={claimsPage}/>
  }else if(state==6){
-  jsx=<Claims rto={rto} variantid={variantid} dateofreg={dateofreg} companyReset={companyReset}/>
+  jsx=<Claims rto={rto} resultPage={resultPage} variantid={variantid} dateofreg={dateofreg} companyReset={companyReset}/>
+ }else if(state==7){
+  jsx=<Result IDV={IDV} PREMIUM={PREMIUM} companyReset={companyReset}/>
  }
 
   return(
@@ -151,6 +172,7 @@ function App() {
    {state>3 && <span> <button class="rectangle-2" onClick={()=> variantReset()}><span class="sigma-1-2 ">{variant}</span></button></span>}
     {state>4 && <span> <button class="rectangle-2" onClick={()=> dateofregReset()}><span class="sigma-1-2 ">{dateofreg}</span></button></span>}
     {state>5 &&<span><button class="rectangle-2" onClick={()=> rtoReset()}><span class="sigma-1-2 ">{rto}</span></button></span>}
+    {state>6 &&<span><button class="rectangle-2" onClick={()=> claimReset()}><span class="sigma-1-2 ">{claimed}</span></button></span>}
 
     </ul>
     </div>

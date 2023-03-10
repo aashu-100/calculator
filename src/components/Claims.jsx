@@ -1,8 +1,8 @@
 import React,{useState,useEffect} from "react";
 
-function Claims({rto,companyReset,variantid,dateofreg}){
+function Claims({rto,companyReset,variantid,dateofreg,resultPage}){
 
-const [show,setShow]=useState(false)
+const [buttonid,setButtonid]=useState("")
 const [user,setUser]= useState()
 const [idv,setIdv]= useState(0)
 const [premium,setPremium]= useState(0)
@@ -57,7 +57,7 @@ else if(dateofreg==currentYear-1){
 }
 // idv and premium calculation 
 
-  function Calculate(){
+const Calculate = event =>{
     if(user){
      let IDV = (user.ex_showroom_price)*(1-depreciation)
      console.log(IDV)
@@ -84,21 +84,34 @@ else if(dateofreg==currentYear-1){
      //setting and displaying premium and IDV
      setIdv(Math.round(sum));
      setPremium(Math.round(finalpremium))
-     setShow(true)
-    }
 
+     console.log(event.currentTarget.id);
+     setButtonid(event.currentTarget.id)
+    //  resultPage("YES",idv,premium)
+   
+    }
+  } 
+  function nextPage(){
+    if(idv>0 && premium>0 && buttonid!=""){
+      
+      resultPage(buttonid,idv,premium)
+    }
   }
   console.log(rto)
   return( <div >
     
     <h4 class=" text-center">Do you file any claims in previous policy year?</h4>
     <div class="row justify-content-center">
-    <button class="select-btn" value="YES" name="claims" onClick={Calculate}> Yes</button>
-    <button class="select-btn" value="NO" name="claims" onClick={Calculate}> No</button>
+      
+    <button class="select-btn" id="YES" name="claims" onClick={Calculate}> Yes</button>
+    <button class="select-btn" id="NO" name="claims" onClick={Calculate}> No</button>
+    </div>
+    <div class="row justify-content-center">
+      <button class="view-plan-btn my-3"onClick={nextPage}>Calculate</button>
     </div>
     <br/>
     
-    { show &&
+    {/* { 
     <div class="row result-box " >
       <div class="col-md-3 mt-md-4 px-5 ">
       <div>IDV</div>
@@ -116,7 +129,7 @@ else if(dateofreg==currentYear-1){
 
       
     </div>
-}
+} */}
     
   </div>);
   

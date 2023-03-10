@@ -65,7 +65,7 @@ function Rto({dateofreg,claimsPage}) {
            })()} */}
           
       </ul>
-      <div><a href="#model-input-rto">Can't find your RTO? Search for it</a></div>
+     
     </main>
   );
   

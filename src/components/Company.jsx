@@ -62,7 +62,7 @@ function Company({modelPage}) {
 
   return (
     <main >
-      <h4 class=" text-center">Which car do you drive?</h4>
+      <h4 class="text-center">Which car do you drive?</h4>
       
         {/* {user && user.length > 0 && user.map((userObj, index) => (
           

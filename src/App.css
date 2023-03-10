@@ -98,16 +98,16 @@
 }
 .select-btn {
   box-sizing: content-box;
-  height: auto;
-  width: auto;
+  height: 39px;
+  width: 118px;
   border: 1px solid rgba(3,3,3,0.12);
   border-radius: 4px;
   background-color: #FFFFFF;
   box-shadow: 0 0 8px 0 rgb(0 0 0 / 4%);
   margin-left: 16px;
   margin-bottom: 15px;
-  padding-left: 30px;
-  padding-right: 31px;
+  padding-left: 25px;
+  padding-right: 25px;
   padding-top: 13px;
   padding-bottom: 14px;
 }
@@ -143,11 +143,11 @@
 }
 .result-box {
   
-    height: 120px;
-    width: auto;
-    border-radius: 8px;
-    background-color: #FFFFFF;
-    box-shadow: 0 1px 18px 3px rgba(0,0,0,0.08);
+  height: 110px;
+  width: 944px;
+  border-radius: 8px;
+  background-color: #FFFFFF;
+  box-shadow: 0 1px 18px 3px rgba(0,0,0,0.08);
   
 }
 .view-plan-btn {
@@ -195,6 +195,12 @@
   h4{
     padding-top: 11px;
     padding-bottom: 10px;
+    color: rgba(3,3,3,0.8);
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 24px;
+    
   }
   .top-brands {
     
