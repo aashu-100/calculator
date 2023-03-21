@@ -1,0 +1,78 @@
+Arguments: 
+  /home/ashutosh/.nvm/versions/node/v8.12.0/bin/node /home/ashutosh/.nvm/versions/node/v8.12.0/bin/yarn run
+
+PATH: 
+  /home/ashutosh/.nvm/versions/node/v8.12.0/bin:/home/ashutosh/.pyenv/plugins/pyenv-virtualenv/shims:/home/ashutosh/.pyenv/shims:/home/ashutosh/.pyenv/bin:/home/ashutosh/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  8.12.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/ashutosh/Desktop/my-app/package.json: Unexpected token / in JSON at position 0
+      at JSON.parse (<anonymous>)
+      at /home/ashutosh/.nvm/versions/node/v8.12.0/lib/node_modules/yarn/lib/cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (/home/ashutosh/.nvm/versions/node/v8.12.0/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /home/ashutosh/.nvm/versions/node/v8.12.0/lib/node_modules/yarn/lib/cli.js:321:13
+      at <anonymous>
+
+npm manifest: 
+  // {
+  //   "name": "my-app",
+  //   "version": "0.1.0",
+  //   "private": true,
+  //   "dependencies": {
+  //     "@testing-library/jest-dom": "^5.16.5",
+  //     "@testing-library/react": "^13.4.0",
+  //     "@testing-library/user-event": "^13.5.0",
+  //     "react": "^18.2.0",
+  //     "react-dom": "^18.2.0",
+  //     "react-router-dom": "^6.8.1",
+  //     "react-scripts": "5.0.1",
+  //     "web-vitals": "^2.1.4"
+  //   },
+  //   "scripts": {
+  //     "start": "react-scripts start",
+  //     "build": "react-scripts build",
+  //     "test": "react-scripts test",
+  //     "eject": "react-scripts eject"
+  //   },
+  //   "eslintConfig": {
+  //     "extends": [
+  //       "react-app",
+  //       "react-app/jest"
+  //     ]
+  //   },
+  //   "browserslist": {
+  //     "production": [
+  //       ">0.2%",
+  //       "not dead",
+  //       "not op_mini all"
+  //     ],
+  //     "development": [
+  //       "last 1 chrome version",
+  //       "last 1 firefox version",
+  //       "last 1 safari version"
+  //     ]
+  //   }
+  // }
+  
+  {
+    "name": "my-app",
+    "scripts": {
+      "build": "babel src -d lib",
+      "test": "jest"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

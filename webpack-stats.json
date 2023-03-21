@@ -1,0 +1,18 @@
+{
+  "status": "done",
+  "assets": {
+    "bundle.js": {
+      "name": "bundle.js",
+      "path": "/home/ashutosh/Desktop/my-app/dist/bundle.js"
+    },
+    "node_modules_web-vitals_dist_web-vitals_js.bundle.js": {
+      "name": "node_modules_web-vitals_dist_web-vitals_js.bundle.js",
+      "path": "/home/ashutosh/Desktop/my-app/dist/node_modules_web-vitals_dist_web-vitals_js.bundle.js"
+    }
+  },
+  "chunks": {
+    "main": [
+      "bundle.js"
+    ]
+  }
+}
